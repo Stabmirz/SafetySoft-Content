@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Analysis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48.1 35.1" style="enable-background:new 0 0 48.1 35.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CEE5F0;}
+	.st1{fill:#76C7DF;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#D2E9F7;}
+	.st4{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D2DF40;}
+	.st5{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D2DF41;}
+	.st6{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D3DF41;}
+	.st7{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D3DF42;}
+	.st8{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D3E042;}
+	.st9{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D4E042;}
+	.st10{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D4E043;}
+	.st11{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D4E044;}
+	.st12{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D5E044;}
+	.st13{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D5E045;}
+	.st14{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D5E145;}
+	.st15{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D6E145;}
+	.st16{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D6E146;}
+	.st17{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D7E147;}
+	.st18{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D7E148;}
+	.st19{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D8E248;}
+	.st20{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D8E249;}
+	.st21{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D9E249;}
+	.st22{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D9E24A;}
+	.st23{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#D9E24B;}
+	.st24{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DAE24B;}
+	.st25{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DAE34B;}
+	.st26{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DAE34C;}
+	.st27{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DBE34C;}
+	.st28{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DBE34D;}
+	.st29{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DBE34E;}
+	.st30{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DCE34E;}
+	.st31{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DCE44F;}
+	.st32{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DDE44F;}
+	.st33{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DDE450;}
+	.st34{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DDE451;}
+	.st35{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DEE451;}
+	.st36{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DEE452;}
+	.st37{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DEE552;}
+	.st38{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DFE552;}
+	.st39{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DFE553;}
+	.st40{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#DFE554;}
+	.st41{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E0E554;}
+	.st42{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E0E555;}
+	.st43{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E1E655;}
+	.st44{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E1E656;}
+	.st45{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E2E657;}
+	.st46{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E2E658;}
+	.st47{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E3E658;}
+	.st48{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E3E758;}
+	.st49{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E3E759;}
+	.st50{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E4E759;}
+	.st51{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E4E75A;}
+	.st52{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E4E75B;}
+	.st53{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E5E75B;}
+	.st54{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E5E85B;}
+	.st55{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E5E85C;}
+	.st56{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E6E85C;}
+	.st57{clip-path:url(#XMLID_28_);fill-rule:evenodd;clip-rule:evenodd;fill:#E6E85D;}
+	.st58{fill:#9ECFEF;}
+	.st59{fill:#F6A03F;}
+	.st60{fill:#FEFEFE;}
+	.st61{fill:#5FB0E5;}
+	.st62{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D2DF40;}
+	.st63{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D2DF41;}
+	.st64{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D3DF41;}
+	.st65{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D3DF42;}
+	.st66{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D3E042;}
+	.st67{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D4E042;}
+	.st68{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D4E043;}
+	.st69{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D4E044;}
+	.st70{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D5E044;}
+	.st71{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D5E045;}
+	.st72{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D5E145;}
+	.st73{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D6E145;}
+	.st74{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D6E146;}
+	.st75{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D7E147;}
+	.st76{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D7E148;}
+	.st77{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D8E248;}
+	.st78{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D8E249;}
+	.st79{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D9E249;}
+	.st80{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D9E24A;}
+	.st81{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#D9E24B;}
+	.st82{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DAE24B;}
+	.st83{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DAE34B;}
+	.st84{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DAE34C;}
+	.st85{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DBE34C;}
+	.st86{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DBE34D;}
+	.st87{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DBE34E;}
+	.st88{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DCE34E;}
+	.st89{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DCE44F;}
+	.st90{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DDE44F;}
+	.st91{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DDE450;}
+	.st92{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DDE451;}
+	.st93{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DEE451;}
+	.st94{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DEE452;}
+	.st95{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DEE552;}
+	.st96{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DFE552;}
+	.st97{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DFE553;}
+	.st98{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#DFE554;}
+	.st99{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E0E554;}
+	.st100{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E0E555;}
+	.st101{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E1E655;}
+	.st102{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E1E656;}
+	.st103{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E2E657;}
+	.st104{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E2E658;}
+	.st105{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E3E658;}
+	.st106{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E3E758;}
+	.st107{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E3E759;}
+	.st108{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E4E759;}
+	.st109{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E4E75A;}
+	.st110{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E4E75B;}
+	.st111{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E5E75B;}
+	.st112{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E5E85B;}
+	.st113{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E5E85C;}
+	.st114{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E6E85C;}
+	.st115{clip-path:url(#XMLID_29_);fill-rule:evenodd;clip-rule:evenodd;fill:#E6E85D;}
+</style>
+<g id="XMLID_571_">
+	<path id="XMLID_572_" class="st0" d="M315.4-74.2h-98.7c-0.5,0-1-0.5-1-1v-70.4c0-0.6,0.5-1,1-1h98.7c0.5,0,1,0.5,1,1v70.4
+		C316.4-74.6,315.9-74.2,315.4-74.2L315.4-74.2z"/>
+	<path id="XMLID_573_" class="st1" d="M216.4-130.7h-1.5v-13.4c0-1.8,1.5-3.3,3.3-3.3h10.6v1.5h-10.6c-1,0-1.8,0.8-1.8,1.8V-130.7z"
+		/>
+	<path id="XMLID_574_" class="st1" d="M317.2-126.7h-1.5v-17.4c0-1-0.8-1.8-1.8-1.8h-10.8v-1.5h10.8c1.8,0,3.3,1.4,3.3,3.3V-126.7z"
+		/>
+	<polygon id="XMLID_575_" class="st2" points="311,-82.1 220.6,-82.1 220.6,-140.9 311,-140.9 311,-119.3 314,-119.1 314.1,-96.7 
+		311,-96.7 	"/>
+	<path id="XMLID_576_" class="st2" d="M314.6-70.2h-98.3c-2.4,0-4.4-1.7-4.8-4l-0.7-4.3h45.6l1.7,2.5h12.6l1.9-2.5h48l-0.6,3.7
+		C319.6-72.1,317.3-70.2,314.6-70.2L314.6-70.2z"/>
+	<path id="XMLID_577_" class="st3" d="M300-82.1v-75.3c0-2.3-1.8-4.1-4.1-4.1h-60.3c-2.3,0-4.1,1.8-4.1,4.1v75.3H300z"/>
+	<path id="XMLID_578_" class="st0" d="M231.6-148v-10.1c0-1.9,1.5-3.4,3.4-3.4h61.6c1.9,0,3.4,1.5,3.4,3.4v10.1H231.6z"/>
+	<path id="XMLID_579_" class="st1" d="M232.3-104.1h-1.5v-54c0-2.3,1.9-4.2,4.2-4.2h9.1v1.5H235c-1.5,0-2.7,1.2-2.7,2.7V-104.1z"/>
+	<path id="XMLID_580_" class="st1" d="M300.7-82.1h-1.5v-76c0-1.5-1.2-2.7-2.7-2.7H256v-1.5h40.6c2.3,0,4.2,1.9,4.2,4.2V-82.1z"/>
+	<rect id="XMLID_581_" x="247.4" y="-162.3" class="st1" width="4.7" height="1.5"/>
+	<rect id="XMLID_582_" x="231.6" y="-148.6" class="st1" width="68.4" height="1.5"/>
+	<rect id="XMLID_583_" x="236.4" y="-157.5" class="st1" width="1.7" height="1.5"/>
+	<rect id="XMLID_584_" x="240.7" y="-157.5" class="st1" width="1.7" height="1.5"/>
+	<rect id="XMLID_585_" x="245.1" y="-157.5" class="st1" width="1.8" height="1.5"/>
+	<rect id="XMLID_586_" x="233.6" y="-142.9" class="st2" width="64.1" height="60.8"/>
+	<rect id="XMLID_587_" x="253.3" y="-154.1" class="st2" width="36.4" height="2.5"/>
+	<rect id="XMLID_588_" x="243.1" y="-154.1" class="st2" width="8.2" height="2.5"/>
+	<rect id="XMLID_589_" x="236.4" y="-154.1" class="st2" width="5.2" height="2.5"/>
+	<rect id="XMLID_590_" x="237.8" y="-138.9" class="st0" width="19.4" height="26.1"/>
+	<rect id="XMLID_591_" x="261.8" y="-138.9" class="st0" width="32.1" height="38.5"/>
+	<g id="XMLID_593_">
+		<defs>
+			<rect id="XMLID_592_" x="261.8" y="-94.1" width="32.1" height="6.3"/>
+		</defs>
+		<clipPath id="XMLID_28_">
+			<use xlink:href="#XMLID_592_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline id="XMLID_594_" class="st4" points="261.8,-94.1 261.9,-94.1 261.9,-87.8 261.8,-87.8 		"/>
+		<polyline id="XMLID_595_" class="st4" points="261.8,-94.1 262,-94.1 262,-87.8 261.8,-87.8 		"/>
+		<polyline id="XMLID_596_" class="st4" points="261.9,-94.1 262.1,-94.1 262.1,-87.8 261.9,-87.8 		"/>
+		<polyline id="XMLID_597_" class="st4" points="262.1,-94.1 262.3,-94.1 262.3,-87.8 262.1,-87.8 		"/>
+		<polyline id="XMLID_598_" class="st4" points="262.2,-94.1 262.4,-94.1 262.4,-87.8 262.2,-87.8 		"/>
+		<polyline id="XMLID_599_" class="st5" points="262.3,-94.1 262.5,-94.1 262.5,-87.8 262.3,-87.8 		"/>
+		<polyline id="XMLID_600_" class="st5" points="262.5,-94.1 262.7,-94.1 262.7,-87.8 262.5,-87.8 		"/>
+		<polyline id="XMLID_601_" class="st6" points="262.6,-94.1 262.8,-94.1 262.8,-87.8 262.6,-87.8 		"/>
+		<polyline id="XMLID_602_" class="st6" points="262.7,-94.1 262.9,-94.1 262.9,-87.8 262.7,-87.8 		"/>
+		<polyline id="XMLID_603_" class="st6" points="262.8,-94.1 263,-94.1 263,-87.8 262.8,-87.8 		"/>
+		<polyline id="XMLID_604_" class="st6" points="263,-94.1 263.1,-94.1 263.1,-87.8 263,-87.8 		"/>
+		<polyline id="XMLID_605_" class="st6" points="263.1,-94.1 263.3,-94.1 263.3,-87.8 263.1,-87.8 		"/>
+		<polyline id="XMLID_606_" class="st6" points="263.2,-94.1 263.4,-94.1 263.4,-87.8 263.2,-87.8 		"/>
+		<polyline id="XMLID_607_" class="st6" points="263.3,-94.1 263.5,-94.1 263.5,-87.8 263.3,-87.8 		"/>
+		<polyline id="XMLID_608_" class="st7" points="263.5,-94.1 263.6,-94.1 263.6,-87.8 263.5,-87.8 		"/>
+		<polyline id="XMLID_609_" class="st8" points="263.6,-94.1 263.8,-94.1 263.8,-87.8 263.6,-87.8 		"/>
+		<polyline id="XMLID_610_" class="st8" points="263.7,-94.1 263.9,-94.1 263.9,-87.8 263.7,-87.8 		"/>
+		<polyline id="XMLID_611_" class="st8" points="263.8,-94.1 264,-94.1 264,-87.8 263.8,-87.8 		"/>
+		<polyline id="XMLID_612_" class="st8" points="264,-94.1 264.2,-94.1 264.2,-87.8 264,-87.8 		"/>
+		<polyline id="XMLID_613_" class="st8" points="264.1,-94.1 264.3,-94.1 264.3,-87.8 264.1,-87.8 		"/>
+		<polyline id="XMLID_614_" class="st9" points="264.2,-94.1 264.4,-94.1 264.4,-87.8 264.2,-87.8 		"/>
+		<polyline id="XMLID_615_" class="st9" points="264.3,-94.1 264.5,-94.1 264.5,-87.8 264.3,-87.8 		"/>
+		<polyline id="XMLID_616_" class="st10" points="264.5,-94.1 264.6,-94.1 264.6,-87.8 264.5,-87.8 		"/>
+		<polyline id="XMLID_617_" class="st10" points="264.6,-94.1 264.8,-94.1 264.8,-87.8 264.6,-87.8 		"/>
+		<polyline id="XMLID_618_" class="st10" points="264.7,-94.1 264.9,-94.1 264.9,-87.8 264.7,-87.8 		"/>
+		<polyline id="XMLID_620_" class="st10" points="264.8,-94.1 265,-94.1 265,-87.8 264.8,-87.8 		"/>
+		<polyline id="XMLID_621_" class="st10" points="265,-94.1 265.2,-94.1 265.2,-87.8 265,-87.8 		"/>
+		<polyline id="XMLID_623_" class="st10" points="265.1,-94.1 265.3,-94.1 265.3,-87.8 265.1,-87.8 		"/>
+		<polyline id="XMLID_624_" class="st10" points="265.2,-94.1 265.4,-94.1 265.4,-87.8 265.2,-87.8 		"/>
+		<polyline id="XMLID_627_" class="st10" points="265.4,-94.1 265.5,-94.1 265.5,-87.8 265.4,-87.8 		"/>
+		<polyline id="XMLID_628_" class="st10" points="265.5,-94.1 265.7,-94.1 265.7,-87.8 265.5,-87.8 		"/>
+		<polyline id="XMLID_629_" class="st11" points="265.6,-94.1 265.8,-94.1 265.8,-87.8 265.6,-87.8 		"/>
+		<polyline id="XMLID_630_" class="st12" points="265.7,-94.1 265.9,-94.1 265.9,-87.8 265.7,-87.8 		"/>
+		<polyline id="XMLID_631_" class="st12" points="265.8,-94.1 266,-94.1 266,-87.8 265.8,-87.8 		"/>
+		<polyline id="XMLID_632_" class="st12" points="266,-94.1 266.2,-94.1 266.2,-87.8 266,-87.8 		"/>
+		<polyline id="XMLID_633_" class="st12" points="266.1,-94.1 266.3,-94.1 266.3,-87.8 266.1,-87.8 		"/>
+		<polyline id="XMLID_634_" class="st12" points="266.2,-94.1 266.4,-94.1 266.4,-87.8 266.2,-87.8 		"/>
+		<polyline id="XMLID_635_" class="st12" points="266.3,-94.1 266.5,-94.1 266.5,-87.8 266.3,-87.8 		"/>
+		<polyline id="XMLID_636_" class="st12" points="266.5,-94.1 266.7,-94.1 266.7,-87.8 266.5,-87.8 		"/>
+		<polyline id="XMLID_637_" class="st12" points="266.6,-94.1 266.8,-94.1 266.8,-87.8 266.6,-87.8 		"/>
+		<polyline id="XMLID_638_" class="st13" points="266.7,-94.1 266.9,-94.1 266.9,-87.8 266.7,-87.8 		"/>
+		<polyline id="XMLID_639_" class="st13" points="266.9,-94.1 267,-94.1 267,-87.8 266.9,-87.8 		"/>
+		<polyline id="XMLID_640_" class="st13" points="267,-94.1 267.2,-94.1 267.2,-87.8 267,-87.8 		"/>
+		<polyline id="XMLID_641_" class="st14" points="267.1,-94.1 267.3,-94.1 267.3,-87.8 267.1,-87.8 		"/>
+		<polyline id="XMLID_642_" class="st14" points="267.2,-94.1 267.4,-94.1 267.4,-87.8 267.2,-87.8 		"/>
+		<polyline id="XMLID_643_" class="st15" points="267.4,-94.1 267.5,-94.1 267.5,-87.8 267.4,-87.8 		"/>
+		<polyline id="XMLID_644_" class="st15" points="267.5,-94.1 267.7,-94.1 267.7,-87.8 267.5,-87.8 		"/>
+		<polyline id="XMLID_645_" class="st15" points="267.6,-94.1 267.8,-94.1 267.8,-87.8 267.6,-87.8 		"/>
+		<polyline id="XMLID_646_" class="st15" points="267.7,-94.1 267.9,-94.1 267.9,-87.8 267.7,-87.8 		"/>
+		<polyline id="XMLID_647_" class="st16" points="267.8,-94.1 268,-94.1 268,-87.8 267.8,-87.8 		"/>
+		<polyline id="XMLID_648_" class="st16" points="268,-94.1 268.2,-94.1 268.2,-87.8 268,-87.8 		"/>
+		<polyline id="XMLID_649_" class="st16" points="268.1,-94.1 268.3,-94.1 268.3,-87.8 268.1,-87.8 		"/>
+		<polyline id="XMLID_650_" class="st16" points="268.2,-94.1 268.4,-94.1 268.4,-87.8 268.2,-87.8 		"/>
+		<polyline id="XMLID_651_" class="st16" points="268.4,-94.1 268.5,-94.1 268.5,-87.8 268.4,-87.8 		"/>
+		<polyline id="XMLID_652_" class="st16" points="268.5,-94.1 268.7,-94.1 268.7,-87.8 268.5,-87.8 		"/>
+		<polyline id="XMLID_653_" class="st16" points="268.6,-94.1 268.8,-94.1 268.8,-87.8 268.6,-87.8 		"/>
+		<polyline id="XMLID_654_" class="st16" points="268.7,-94.1 268.9,-94.1 268.9,-87.8 268.7,-87.8 		"/>
+		<polyline id="XMLID_655_" class="st16" points="268.9,-94.1 269,-94.1 269,-87.8 268.9,-87.8 		"/>
+		<polyline id="XMLID_656_" class="st17" points="269,-94.1 269.2,-94.1 269.2,-87.8 269,-87.8 		"/>
+		<polyline id="XMLID_657_" class="st17" points="269.1,-94.1 269.3,-94.1 269.3,-87.8 269.1,-87.8 		"/>
+		<polyline id="XMLID_658_" class="st17" points="269.2,-94.1 269.4,-94.1 269.4,-87.8 269.2,-87.8 		"/>
+		<polyline id="XMLID_659_" class="st17" points="269.3,-94.1 269.5,-94.1 269.5,-87.8 269.3,-87.8 		"/>
+		<polyline id="XMLID_660_" class="st17" points="269.5,-94.1 269.7,-94.1 269.7,-87.8 269.5,-87.8 		"/>
+		<polyline id="XMLID_661_" class="st17" points="269.6,-94.1 269.8,-94.1 269.8,-87.8 269.6,-87.8 		"/>
+		<polyline id="XMLID_662_" class="st17" points="269.7,-94.1 269.9,-94.1 269.9,-87.8 269.7,-87.8 		"/>
+		<polyline id="XMLID_663_" class="st17" points="269.9,-94.1 270.1,-94.1 270.1,-87.8 269.9,-87.8 		"/>
+		<polyline id="XMLID_664_" class="st18" points="270,-94.1 270.2,-94.1 270.2,-87.8 270,-87.8 		"/>
+		<polyline id="XMLID_665_" class="st18" points="270.1,-94.1 270.3,-94.1 270.3,-87.8 270.1,-87.8 		"/>
+		<polyline id="XMLID_666_" class="st18" points="270.2,-94.1 270.4,-94.1 270.4,-87.8 270.2,-87.8 		"/>
+		<polyline id="XMLID_667_" class="st18" points="270.4,-94.1 270.5,-94.1 270.5,-87.8 270.4,-87.8 		"/>
+		<polyline id="XMLID_668_" class="st18" points="270.5,-94.1 270.7,-94.1 270.7,-87.8 270.5,-87.8 		"/>
+		<polyline id="XMLID_669_" class="st19" points="270.6,-94.1 270.8,-94.1 270.8,-87.8 270.6,-87.8 		"/>
+		<polyline id="XMLID_670_" class="st19" points="270.7,-94.1 270.9,-94.1 270.9,-87.8 270.7,-87.8 		"/>
+		<polyline id="XMLID_671_" class="st19" points="270.8,-94.1 271,-94.1 271,-87.8 270.8,-87.8 		"/>
+		<polyline id="XMLID_672_" class="st19" points="271,-94.1 271.2,-94.1 271.2,-87.8 271,-87.8 		"/>
+		<polyline id="XMLID_673_" class="st20" points="271.1,-94.1 271.3,-94.1 271.3,-87.8 271.1,-87.8 		"/>
+		<polyline id="XMLID_674_" class="st20" points="271.2,-94.1 271.4,-94.1 271.4,-87.8 271.2,-87.8 		"/>
+		<polyline id="XMLID_675_" class="st20" points="271.4,-94.1 271.6,-94.1 271.6,-87.8 271.4,-87.8 		"/>
+		<polyline id="XMLID_676_" class="st20" points="271.5,-94.1 271.7,-94.1 271.7,-87.8 271.5,-87.8 		"/>
+		<polyline id="XMLID_677_" class="st20" points="271.6,-94.1 271.8,-94.1 271.8,-87.8 271.6,-87.8 		"/>
+		<polyline id="XMLID_678_" class="st20" points="271.7,-94.1 271.9,-94.1 271.9,-87.8 271.7,-87.8 		"/>
+		<polyline id="XMLID_679_" class="st20" points="271.9,-94.1 272,-94.1 272,-87.8 271.9,-87.8 		"/>
+		<polyline id="XMLID_680_" class="st20" points="272,-94.1 272.2,-94.1 272.2,-87.8 272,-87.8 		"/>
+		<polyline id="XMLID_681_" class="st21" points="272.1,-94.1 272.3,-94.1 272.3,-87.8 272.1,-87.8 		"/>
+		<polyline id="XMLID_682_" class="st22" points="272.2,-94.1 272.4,-94.1 272.4,-87.8 272.2,-87.8 		"/>
+		<polyline id="XMLID_683_" class="st22" points="272.4,-94.1 272.6,-94.1 272.6,-87.8 272.4,-87.8 		"/>
+		<polyline id="XMLID_684_" class="st22" points="272.5,-94.1 272.7,-94.1 272.7,-87.8 272.5,-87.8 		"/>
+		<polyline id="XMLID_685_" class="st22" points="272.6,-94.1 272.8,-94.1 272.8,-87.8 272.6,-87.8 		"/>
+		<polyline id="XMLID_686_" class="st22" points="272.7,-94.1 272.9,-94.1 272.9,-87.8 272.7,-87.8 		"/>
+		<polyline id="XMLID_687_" class="st22" points="272.9,-94.1 273.1,-94.1 273.1,-87.8 272.9,-87.8 		"/>
+		<polyline id="XMLID_688_" class="st22" points="273,-94.1 273.2,-94.1 273.2,-87.8 273,-87.8 		"/>
+		<polyline id="XMLID_690_" class="st22" points="273.1,-94.1 273.3,-94.1 273.3,-87.8 273.1,-87.8 		"/>
+		<polyline id="XMLID_691_" class="st22" points="273.2,-94.1 273.4,-94.1 273.4,-87.8 273.2,-87.8 		"/>
+		<polyline id="XMLID_693_" class="st23" points="273.4,-94.1 273.5,-94.1 273.5,-87.8 273.4,-87.8 		"/>
+		<polyline id="XMLID_704_" class="st23" points="273.5,-94.1 273.7,-94.1 273.7,-87.8 273.5,-87.8 		"/>
+		<polyline id="XMLID_710_" class="st23" points="273.6,-94.1 273.8,-94.1 273.8,-87.8 273.6,-87.8 		"/>
+		<polyline id="XMLID_719_" class="st24" points="273.7,-94.1 273.9,-94.1 273.9,-87.8 273.7,-87.8 		"/>
+		<polyline id="XMLID_720_" class="st24" points="273.9,-94.1 274.1,-94.1 274.1,-87.8 273.9,-87.8 		"/>
+		<polyline id="XMLID_721_" class="st24" points="274,-94.1 274.2,-94.1 274.2,-87.8 274,-87.8 		"/>
+		<polyline id="XMLID_722_" class="st24" points="274.1,-94.1 274.3,-94.1 274.3,-87.8 274.1,-87.8 		"/>
+		<polyline id="XMLID_723_" class="st25" points="274.3,-94.1 274.4,-94.1 274.4,-87.8 274.3,-87.8 		"/>
+		<polyline id="XMLID_724_" class="st25" points="274.4,-94.1 274.6,-94.1 274.6,-87.8 274.4,-87.8 		"/>
+		<polyline id="XMLID_725_" class="st26" points="274.5,-94.1 274.7,-94.1 274.7,-87.8 274.5,-87.8 		"/>
+		<polyline id="XMLID_726_" class="st26" points="274.6,-94.1 274.8,-94.1 274.8,-87.8 274.6,-87.8 		"/>
+		<polyline id="XMLID_727_" class="st26" points="274.7,-94.1 274.9,-94.1 274.9,-87.8 274.7,-87.8 		"/>
+		<polyline id="XMLID_734_" class="st26" points="274.9,-94.1 275,-94.1 275,-87.8 274.9,-87.8 		"/>
+		<polyline id="XMLID_735_" class="st26" points="275,-94.1 275.2,-94.1 275.2,-87.8 275,-87.8 		"/>
+		<polyline id="XMLID_736_" class="st26" points="275.1,-94.1 275.3,-94.1 275.3,-87.8 275.1,-87.8 		"/>
+		<polyline id="XMLID_737_" class="st26" points="275.2,-94.1 275.4,-94.1 275.4,-87.8 275.2,-87.8 		"/>
+		<polyline id="XMLID_738_" class="st27" points="275.4,-94.1 275.6,-94.1 275.6,-87.8 275.4,-87.8 		"/>
+		<polyline id="XMLID_739_" class="st28" points="275.5,-94.1 275.7,-94.1 275.7,-87.8 275.5,-87.8 		"/>
+		<polyline id="XMLID_740_" class="st28" points="275.6,-94.1 275.8,-94.1 275.8,-87.8 275.6,-87.8 		"/>
+		<polyline id="XMLID_741_" class="st28" points="275.8,-94.1 275.9,-94.1 275.9,-87.8 275.8,-87.8 		"/>
+		<polyline id="XMLID_742_" class="st28" points="275.9,-94.1 276.1,-94.1 276.1,-87.8 275.9,-87.8 		"/>
+		<polyline id="XMLID_743_" class="st28" points="276,-94.1 276.2,-94.1 276.2,-87.8 276,-87.8 		"/>
+		<polyline id="XMLID_744_" class="st28" points="276.1,-94.1 276.3,-94.1 276.3,-87.8 276.1,-87.8 		"/>
+		<polyline id="XMLID_745_" class="st28" points="276.2,-94.1 276.4,-94.1 276.4,-87.8 276.2,-87.8 		"/>
+		<polyline id="XMLID_746_" class="st28" points="276.4,-94.1 276.5,-94.1 276.5,-87.8 276.4,-87.8 		"/>
+		<polyline id="XMLID_747_" class="st28" points="276.5,-94.1 276.7,-94.1 276.7,-87.8 276.5,-87.8 		"/>
+		<polyline id="XMLID_748_" class="st29" points="276.6,-94.1 276.8,-94.1 276.8,-87.8 276.6,-87.8 		"/>
+		<polyline id="XMLID_756_" class="st29" points="276.7,-94.1 276.9,-94.1 276.9,-87.8 276.7,-87.8 		"/>
+		<polyline id="XMLID_757_" class="st29" points="276.9,-94.1 277.1,-94.1 277.1,-87.8 276.9,-87.8 		"/>
+		<polyline id="XMLID_758_" class="st30" points="277,-94.1 277.2,-94.1 277.2,-87.8 277,-87.8 		"/>
+		<polyline id="XMLID_759_" class="st30" points="277.1,-94.1 277.3,-94.1 277.3,-87.8 277.1,-87.8 		"/>
+		<polyline id="XMLID_760_" class="st30" points="277.3,-94.1 277.4,-94.1 277.4,-87.8 277.3,-87.8 		"/>
+		<polyline id="XMLID_761_" class="st30" points="277.4,-94.1 277.6,-94.1 277.6,-87.8 277.4,-87.8 		"/>
+		<polyline id="XMLID_762_" class="st30" points="277.5,-94.1 277.7,-94.1 277.7,-87.8 277.5,-87.8 		"/>
+		<polyline id="XMLID_763_" class="st30" points="277.6,-94.1 277.8,-94.1 277.8,-87.8 277.6,-87.8 		"/>
+		<polyline id="XMLID_764_" class="st31" points="277.7,-94.1 277.9,-94.1 277.9,-87.8 277.7,-87.8 		"/>
+		<polyline id="XMLID_765_" class="st31" points="277.9,-94.1 278,-94.1 278,-87.8 277.9,-87.8 		"/>
+		<polyline id="XMLID_766_" class="st31" points="278,-94.1 278.2,-94.1 278.2,-87.8 278,-87.8 		"/>
+		<polyline id="XMLID_767_" class="st31" points="278.1,-94.1 278.3,-94.1 278.3,-87.8 278.1,-87.8 		"/>
+		<polyline id="XMLID_768_" class="st31" points="278.2,-94.1 278.4,-94.1 278.4,-87.8 278.2,-87.8 		"/>
+		<polyline id="XMLID_769_" class="st31" points="278.4,-94.1 278.6,-94.1 278.6,-87.8 278.4,-87.8 		"/>
+		<polyline id="XMLID_770_" class="st32" points="278.5,-94.1 278.7,-94.1 278.7,-87.8 278.5,-87.8 		"/>
+		<polyline id="XMLID_771_" class="st32" points="278.6,-94.1 278.8,-94.1 278.8,-87.8 278.6,-87.8 		"/>
+		<polyline id="XMLID_772_" class="st32" points="278.8,-94.1 278.9,-94.1 278.9,-87.8 278.8,-87.8 		"/>
+		<polyline id="XMLID_773_" class="st33" points="278.9,-94.1 279.1,-94.1 279.1,-87.8 278.9,-87.8 		"/>
+		<polyline id="XMLID_774_" class="st33" points="279,-94.1 279.2,-94.1 279.2,-87.8 279,-87.8 		"/>
+		<polyline id="XMLID_775_" class="st33" points="279.1,-94.1 279.3,-94.1 279.3,-87.8 279.1,-87.8 		"/>
+		<polyline id="XMLID_776_" class="st33" points="279.2,-94.1 279.4,-94.1 279.4,-87.8 279.2,-87.8 		"/>
+		<polyline id="XMLID_777_" class="st33" points="279.4,-94.1 279.6,-94.1 279.6,-87.8 279.4,-87.8 		"/>
+		<polyline id="XMLID_778_" class="st33" points="279.5,-94.1 279.7,-94.1 279.7,-87.8 279.5,-87.8 		"/>
+		<polyline id="XMLID_779_" class="st33" points="279.6,-94.1 279.8,-94.1 279.8,-87.8 279.6,-87.8 		"/>
+		<polyline id="XMLID_780_" class="st33" points="279.8,-94.1 279.9,-94.1 279.9,-87.8 279.8,-87.8 		"/>
+		<polyline id="XMLID_781_" class="st33" points="279.9,-94.1 280.1,-94.1 280.1,-87.8 279.9,-87.8 		"/>
+		<polyline id="XMLID_782_" class="st34" points="280,-94.1 280.2,-94.1 280.2,-87.8 280,-87.8 		"/>
+		<polyline id="XMLID_783_" class="st35" points="280.1,-94.1 280.3,-94.1 280.3,-87.8 280.1,-87.8 		"/>
+		<polyline id="XMLID_784_" class="st35" points="280.3,-94.1 280.4,-94.1 280.4,-87.8 280.3,-87.8 		"/>
+		<polyline id="XMLID_785_" class="st35" points="280.4,-94.1 280.6,-94.1 280.6,-87.8 280.4,-87.8 		"/>
+		<polyline id="XMLID_786_" class="st35" points="280.5,-94.1 280.7,-94.1 280.7,-87.8 280.5,-87.8 		"/>
+		<polyline id="XMLID_787_" class="st35" points="280.6,-94.1 280.8,-94.1 280.8,-87.8 280.6,-87.8 		"/>
+		<polyline id="XMLID_788_" class="st35" points="280.7,-94.1 280.9,-94.1 280.9,-87.8 280.7,-87.8 		"/>
+		<polyline id="XMLID_789_" class="st35" points="280.9,-94.1 281.1,-94.1 281.1,-87.8 280.9,-87.8 		"/>
+		<polyline id="XMLID_790_" class="st36" points="281,-94.1 281.2,-94.1 281.2,-87.8 281,-87.8 		"/>
+		<polyline id="XMLID_791_" class="st36" points="281.1,-94.1 281.3,-94.1 281.3,-87.8 281.1,-87.8 		"/>
+		<polyline id="XMLID_792_" class="st37" points="281.3,-94.1 281.5,-94.1 281.5,-87.8 281.3,-87.8 		"/>
+		<polyline id="XMLID_793_" class="st37" points="281.4,-94.1 281.6,-94.1 281.6,-87.8 281.4,-87.8 		"/>
+		<polyline id="XMLID_794_" class="st37" points="281.5,-94.1 281.7,-94.1 281.7,-87.8 281.5,-87.8 		"/>
+		<polyline id="XMLID_795_" class="st37" points="281.6,-94.1 281.8,-94.1 281.8,-87.8 281.6,-87.8 		"/>
+		<polyline id="XMLID_796_" class="st38" points="281.8,-94.1 281.9,-94.1 281.9,-87.8 281.8,-87.8 		"/>
+		<polyline id="XMLID_800_" class="st38" points="281.9,-94.1 282.1,-94.1 282.1,-87.8 281.9,-87.8 		"/>
+		<polyline id="XMLID_803_" class="st38" points="282,-94.1 282.2,-94.1 282.2,-87.8 282,-87.8 		"/>
+		<polyline id="XMLID_804_" class="st39" points="282.1,-94.1 282.3,-94.1 282.3,-87.8 282.1,-87.8 		"/>
+		<polyline id="XMLID_805_" class="st39" points="282.2,-94.1 282.4,-94.1 282.4,-87.8 282.2,-87.8 		"/>
+		<polyline id="XMLID_806_" class="st39" points="282.4,-94.1 282.6,-94.1 282.6,-87.8 282.4,-87.8 		"/>
+		<polyline id="XMLID_807_" class="st39" points="282.5,-94.1 282.7,-94.1 282.7,-87.8 282.5,-87.8 		"/>
+		<polyline id="XMLID_808_" class="st39" points="282.6,-94.1 282.8,-94.1 282.8,-87.8 282.6,-87.8 		"/>
+		<polyline id="XMLID_813_" class="st39" points="282.8,-94.1 283,-94.1 283,-87.8 282.8,-87.8 		"/>
+		<polyline id="XMLID_814_" class="st39" points="282.9,-94.1 283.1,-94.1 283.1,-87.8 282.9,-87.8 		"/>
+		<polyline id="XMLID_815_" class="st39" points="283,-94.1 283.2,-94.1 283.2,-87.8 283,-87.8 		"/>
+		<polyline id="XMLID_816_" class="st39" points="283.1,-94.1 283.3,-94.1 283.3,-87.8 283.1,-87.8 		"/>
+		<polyline id="XMLID_817_" class="st40" points="283.3,-94.1 283.4,-94.1 283.4,-87.8 283.3,-87.8 		"/>
+		<polyline id="XMLID_818_" class="st41" points="283.4,-94.1 283.6,-94.1 283.6,-87.8 283.4,-87.8 		"/>
+		<polyline id="XMLID_819_" class="st41" points="283.5,-94.1 283.7,-94.1 283.7,-87.8 283.5,-87.8 		"/>
+		<polyline id="XMLID_820_" class="st41" points="283.6,-94.1 283.8,-94.1 283.8,-87.8 283.6,-87.8 		"/>
+		<polyline id="XMLID_821_" class="st41" points="283.7,-94.1 283.9,-94.1 283.9,-87.8 283.7,-87.8 		"/>
+		<polyline id="XMLID_822_" class="st41" points="283.9,-94.1 284.1,-94.1 284.1,-87.8 283.9,-87.8 		"/>
+		<polyline id="XMLID_823_" class="st41" points="284,-94.1 284.2,-94.1 284.2,-87.8 284,-87.8 		"/>
+		<polyline id="XMLID_824_" class="st41" points="284.1,-94.1 284.3,-94.1 284.3,-87.8 284.1,-87.8 		"/>
+		<polyline id="XMLID_825_" class="st41" points="284.3,-94.1 284.5,-94.1 284.5,-87.8 284.3,-87.8 		"/>
+		<polyline id="XMLID_826_" class="st42" points="284.4,-94.1 284.6,-94.1 284.6,-87.8 284.4,-87.8 		"/>
+		<polyline id="XMLID_827_" class="st42" points="284.5,-94.1 284.7,-94.1 284.7,-87.8 284.5,-87.8 		"/>
+		<polyline id="XMLID_828_" class="st42" points="284.6,-94.1 284.8,-94.1 284.8,-87.8 284.6,-87.8 		"/>
+		<polyline id="XMLID_829_" class="st42" points="284.8,-94.1 284.9,-94.1 284.9,-87.8 284.8,-87.8 		"/>
+		<polyline id="XMLID_830_" class="st43" points="284.9,-94.1 285.1,-94.1 285.1,-87.8 284.9,-87.8 		"/>
+		<polyline id="XMLID_831_" class="st43" points="285,-94.1 285.2,-94.1 285.2,-87.8 285,-87.8 		"/>
+		<polyline id="XMLID_832_" class="st43" points="285.1,-94.1 285.3,-94.1 285.3,-87.8 285.1,-87.8 		"/>
+		<polyline id="XMLID_833_" class="st43" points="285.2,-94.1 285.4,-94.1 285.4,-87.8 285.2,-87.8 		"/>
+		<polyline id="XMLID_834_" class="st43" points="285.4,-94.1 285.6,-94.1 285.6,-87.8 285.4,-87.8 		"/>
+		<polyline id="XMLID_835_" class="st44" points="285.5,-94.1 285.7,-94.1 285.7,-87.8 285.5,-87.8 		"/>
+		<polyline id="XMLID_836_" class="st44" points="285.6,-94.1 285.8,-94.1 285.8,-87.8 285.6,-87.8 		"/>
+		<polyline id="XMLID_837_" class="st44" points="285.8,-94.1 286,-94.1 286,-87.8 285.8,-87.8 		"/>
+		<polyline id="XMLID_838_" class="st44" points="285.9,-94.1 286.1,-94.1 286.1,-87.8 285.9,-87.8 		"/>
+		<polyline id="XMLID_839_" class="st44" points="286,-94.1 286.2,-94.1 286.2,-87.8 286,-87.8 		"/>
+		<polyline id="XMLID_840_" class="st44" points="286.1,-94.1 286.3,-94.1 286.3,-87.8 286.1,-87.8 		"/>
+		<polyline id="XMLID_841_" class="st44" points="286.3,-94.1 286.4,-94.1 286.4,-87.8 286.3,-87.8 		"/>
+		<polyline id="XMLID_842_" class="st44" points="286.4,-94.1 286.6,-94.1 286.6,-87.8 286.4,-87.8 		"/>
+		<polyline id="XMLID_843_" class="st45" points="286.5,-94.1 286.7,-94.1 286.7,-87.8 286.5,-87.8 		"/>
+		<polyline id="XMLID_844_" class="st45" points="286.6,-94.1 286.8,-94.1 286.8,-87.8 286.6,-87.8 		"/>
+		<polyline id="XMLID_845_" class="st45" points="286.8,-94.1 287,-94.1 287,-87.8 286.8,-87.8 		"/>
+		<polyline id="XMLID_846_" class="st45" points="286.9,-94.1 287.1,-94.1 287.1,-87.8 286.9,-87.8 		"/>
+		<polyline id="XMLID_847_" class="st45" points="287,-94.1 287.2,-94.1 287.2,-87.8 287,-87.8 		"/>
+		<polyline id="XMLID_848_" class="st45" points="287.1,-94.1 287.3,-94.1 287.3,-87.8 287.1,-87.8 		"/>
+		<polyline id="XMLID_849_" class="st45" points="287.3,-94.1 287.5,-94.1 287.5,-87.8 287.3,-87.8 		"/>
+		<polyline id="XMLID_850_" class="st45" points="287.4,-94.1 287.6,-94.1 287.6,-87.8 287.4,-87.8 		"/>
+		<polyline id="XMLID_851_" class="st45" points="287.5,-94.1 287.7,-94.1 287.7,-87.8 287.5,-87.8 		"/>
+		<polyline id="XMLID_852_" class="st46" points="287.6,-94.1 287.8,-94.1 287.8,-87.8 287.6,-87.8 		"/>
+		<polyline id="XMLID_853_" class="st46" points="287.8,-94.1 287.9,-94.1 287.9,-87.8 287.8,-87.8 		"/>
+		<polyline id="XMLID_854_" class="st46" points="287.9,-94.1 288.1,-94.1 288.1,-87.8 287.9,-87.8 		"/>
+		<polyline id="XMLID_855_" class="st46" points="288,-94.1 288.2,-94.1 288.2,-87.8 288,-87.8 		"/>
+		<polyline id="XMLID_856_" class="st47" points="288.1,-94.1 288.3,-94.1 288.3,-87.8 288.1,-87.8 		"/>
+		<polyline id="XMLID_857_" class="st47" points="288.3,-94.1 288.5,-94.1 288.5,-87.8 288.3,-87.8 		"/>
+		<polyline id="XMLID_858_" class="st48" points="288.4,-94.1 288.6,-94.1 288.6,-87.8 288.4,-87.8 		"/>
+		<polyline id="XMLID_859_" class="st48" points="288.5,-94.1 288.7,-94.1 288.7,-87.8 288.5,-87.8 		"/>
+		<polyline id="XMLID_860_" class="st48" points="288.7,-94.1 288.8,-94.1 288.8,-87.8 288.7,-87.8 		"/>
+		<polyline id="XMLID_861_" class="st49" points="288.8,-94.1 289,-94.1 289,-87.8 288.8,-87.8 		"/>
+		<polyline id="XMLID_862_" class="st49" points="288.9,-94.1 289.1,-94.1 289.1,-87.8 288.9,-87.8 		"/>
+		<polyline id="XMLID_863_" class="st49" points="289,-94.1 289.2,-94.1 289.2,-87.8 289,-87.8 		"/>
+		<polyline id="XMLID_864_" class="st49" points="289.1,-94.1 289.3,-94.1 289.3,-87.8 289.1,-87.8 		"/>
+		<polyline id="XMLID_865_" class="st49" points="289.3,-94.1 289.4,-94.1 289.4,-87.8 289.3,-87.8 		"/>
+		<polyline id="XMLID_866_" class="st49" points="289.4,-94.1 289.6,-94.1 289.6,-87.8 289.4,-87.8 		"/>
+		<polyline id="XMLID_867_" class="st49" points="289.5,-94.1 289.7,-94.1 289.7,-87.8 289.5,-87.8 		"/>
+		<polyline id="XMLID_868_" class="st49" points="289.6,-94.1 289.8,-94.1 289.8,-87.8 289.6,-87.8 		"/>
+		<polyline id="XMLID_869_" class="st50" points="289.8,-94.1 290,-94.1 290,-87.8 289.8,-87.8 		"/>
+		<polyline id="XMLID_870_" class="st51" points="289.9,-94.1 290.1,-94.1 290.1,-87.8 289.9,-87.8 		"/>
+		<polyline id="XMLID_871_" class="st51" points="290,-94.1 290.2,-94.1 290.2,-87.8 290,-87.8 		"/>
+		<polyline id="XMLID_872_" class="st51" points="290.2,-94.1 290.3,-94.1 290.3,-87.8 290.2,-87.8 		"/>
+		<polyline id="XMLID_873_" class="st51" points="290.3,-94.1 290.5,-94.1 290.5,-87.8 290.3,-87.8 		"/>
+		<polyline id="XMLID_874_" class="st51" points="290.4,-94.1 290.6,-94.1 290.6,-87.8 290.4,-87.8 		"/>
+		<polyline id="XMLID_875_" class="st51" points="290.5,-94.1 290.7,-94.1 290.7,-87.8 290.5,-87.8 		"/>
+		<polyline id="XMLID_876_" class="st51" points="290.6,-94.1 290.8,-94.1 290.8,-87.8 290.6,-87.8 		"/>
+		<polyline id="XMLID_877_" class="st51" points="290.8,-94.1 290.9,-94.1 290.9,-87.8 290.8,-87.8 		"/>
+		<polyline id="XMLID_878_" class="st51" points="290.9,-94.1 291.1,-94.1 291.1,-87.8 290.9,-87.8 		"/>
+		<polyline id="XMLID_879_" class="st52" points="291,-94.1 291.2,-94.1 291.2,-87.8 291,-87.8 		"/>
+		<polyline id="XMLID_880_" class="st52" points="291.1,-94.1 291.3,-94.1 291.3,-87.8 291.1,-87.8 		"/>
+		<polyline id="XMLID_881_" class="st53" points="291.3,-94.1 291.5,-94.1 291.5,-87.8 291.3,-87.8 		"/>
+		<polyline id="XMLID_882_" class="st53" points="291.4,-94.1 291.6,-94.1 291.6,-87.8 291.4,-87.8 		"/>
+		<polyline id="XMLID_883_" class="st53" points="291.5,-94.1 291.7,-94.1 291.7,-87.8 291.5,-87.8 		"/>
+		<polyline id="XMLID_884_" class="st53" points="291.7,-94.1 291.8,-94.1 291.8,-87.8 291.7,-87.8 		"/>
+		<polyline id="XMLID_885_" class="st53" points="291.8,-94.1 292,-94.1 292,-87.8 291.8,-87.8 		"/>
+		<polyline id="XMLID_886_" class="st54" points="291.9,-94.1 292.1,-94.1 292.1,-87.8 291.9,-87.8 		"/>
+		<polyline id="XMLID_887_" class="st55" points="292,-94.1 292.2,-94.1 292.2,-87.8 292,-87.8 		"/>
+		<polyline id="XMLID_888_" class="st55" points="292.1,-94.1 292.3,-94.1 292.3,-87.8 292.1,-87.8 		"/>
+		<polyline id="XMLID_889_" class="st55" points="292.3,-94.1 292.4,-94.1 292.4,-87.8 292.3,-87.8 		"/>
+		<polyline id="XMLID_890_" class="st55" points="292.4,-94.1 292.6,-94.1 292.6,-87.8 292.4,-87.8 		"/>
+		<polyline id="XMLID_891_" class="st55" points="292.5,-94.1 292.7,-94.1 292.7,-87.8 292.5,-87.8 		"/>
+		<polyline id="XMLID_892_" class="st55" points="292.6,-94.1 292.8,-94.1 292.8,-87.8 292.6,-87.8 		"/>
+		<polyline id="XMLID_893_" class="st55" points="292.8,-94.1 293,-94.1 293,-87.8 292.8,-87.8 		"/>
+		<polyline id="XMLID_894_" class="st56" points="292.9,-94.1 293.1,-94.1 293.1,-87.8 292.9,-87.8 		"/>
+		<polyline id="XMLID_895_" class="st56" points="293,-94.1 293.2,-94.1 293.2,-87.8 293,-87.8 		"/>
+		<polyline id="XMLID_896_" class="st57" points="293.2,-94.1 293.3,-94.1 293.3,-87.8 293.2,-87.8 		"/>
+		<polyline id="XMLID_897_" class="st57" points="293.3,-94.1 293.5,-94.1 293.5,-87.8 293.3,-87.8 		"/>
+		<polyline id="XMLID_898_" class="st57" points="293.4,-94.1 293.6,-94.1 293.6,-87.8 293.4,-87.8 		"/>
+		<polyline id="XMLID_899_" class="st57" points="293.5,-94.1 293.7,-94.1 293.7,-87.8 293.5,-87.8 		"/>
+		<polyline id="XMLID_900_" class="st57" points="293.6,-94.1 293.9,-94.1 293.9,-87.8 293.6,-87.8 		"/>
+	</g>
+	<path id="XMLID_901_" class="st58" d="M245.9-105h-6.8c-0.5,0-1-0.4-1-1s0.4-1,1-1h6.8c0.5,0,1,0.4,1,1S246.4-105,245.9-105
+		L245.9-105z"/>
+	<path id="XMLID_902_" class="st59" d="M255.5-105h-6.7c-0.5,0-1-0.4-1-1s0.4-1,1-1h6.7c0.5,0,1,0.4,1,1S256-105,255.5-105
+		L255.5-105z"/>
+</g>
+<g id="XMLID_553_">
+	<path id="XMLID_554_" class="st2" d="M322.7,22h-30.4c-1.1,0-2-0.9-2-2v-50.7c0-1.1,0.9-2,2-2h30.4c1.1,0,2,0.9,2,2V20
+		C324.7,21.1,323.8,22,322.7,22L322.7,22z"/>
+	<path id="XMLID_555_" class="st1" d="M291.2-26.1h-1.5v-3.5c0-2.1,1.7-3.8,3.8-3.8h17.9v1.5h-17.9c-1.3,0-2.3,1-2.3,2.3V-26.1z"/>
+	<path id="XMLID_556_" class="st1" d="M321.7,22.7h-28.2c-2.1,0-3.8-1.7-3.8-3.8V-7.3h1.5v26.2c0,1.3,1,2.3,2.3,2.3h28.2
+		c1.3,0,2.3-1,2.3-2.3v-48.5c0-1.3-1-2.3-2.3-2.3h-2.2v-1.5h2.2c2.1,0,3.8,1.7,3.8,3.8v48.5C325.5,21,323.8,22.7,321.7,22.7
+		L321.7,22.7z"/>
+	<rect id="XMLID_557_" x="313.2" y="-33.4" class="st1" width="4.9" height="1.5"/>
+	<rect id="XMLID_558_" x="302.5" y="-29.3" class="st1" width="10.2" height="1.5"/>
+	<path id="XMLID_560_" class="st1" d="M307.6,16.6c-0.5,0-0.9,0.4-0.9,0.9c0,0.5,0.4,0.9,0.9,0.9c0.5,0,0.9-0.4,0.9-0.9
+		C308.4,17,308,16.6,307.6,16.6L307.6,16.6z M307.6,19.9c-1.3,0-2.4-1.1-2.4-2.4c0-1.3,1.1-2.4,2.4-2.4c1.3,0,2.4,1.1,2.4,2.4
+		C309.9,18.8,308.9,19.9,307.6,19.9L307.6,19.9z"/>
+	<rect id="XMLID_562_" x="293.8" y="-24.8" class="st0" width="27.5" height="38.7"/>
+	<path id="XMLID_563_" class="st60" d="M307.3-22.6V-11c0,0.7-0.5,1.2-1.1,1.2h-0.7v2.4V-3c0,0.2-0.3,0.3-0.5,0.1l-5.8-7h-16.4
+		c-0.6,0-1.1-0.5-1.1-1.2v-11.6c0-0.6,0.5-1.1,1.1-1.1h23.3C306.8-23.7,307.3-23.2,307.3-22.6L307.3-22.6z"/>
+	<path id="XMLID_565_" class="st59" d="M282.8-23c-0.2,0-0.4,0.2-0.4,0.4V-11c0,0.2,0.2,0.4,0.4,0.4h16.7l5.2,6.2v-6.2h1.4
+		c0.2,0,0.4-0.2,0.4-0.4v-11.6c0-0.2-0.2-0.4-0.4-0.4H282.8z M305.2-2c-0.3,0-0.6-0.1-0.8-0.4l-5.6-6.7h-16c-1,0-1.9-0.9-1.9-1.9
+		v-11.6c0-1.1,0.9-1.9,1.9-1.9h23.3c1,0,1.9,0.9,1.9,1.9V-11c0,1-0.8,1.8-1.8,1.9V-3c0,0.4-0.3,0.8-0.7,0.9C305.5-2,305.4-2,305.2-2
+		L305.2-2z"/>
+	<rect id="XMLID_567_" x="287.4" y="-20.5" class="st59" width="14.2" height="1.5"/>
+	<rect id="XMLID_568_" x="287.4" y="-17.5" class="st59" width="14.2" height="1.5"/>
+	<rect id="XMLID_569_" x="287.4" y="-14.4" class="st59" width="7.7" height="1.5"/>
+</g>
+<g id="XMLID_214_">
+	<polygon id="XMLID_215_" class="st61" points="292.4,75.3 292.4,75 221.9,75 257.1,95.5 	"/>
+	<polygon id="XMLID_216_" class="st3" points="292.3,74.6 292.3,75 221.8,75 256.9,54.4 	"/>
+	<g id="XMLID_218_">
+		<defs>
+			<path id="XMLID_217_" d="M283,99.7h-51V52.1c0-1,0.8-1.8,1.9-1.8h47.3c1,0,1.8,0.8,1.8,1.8V99.7z"/>
+		</defs>
+		<clipPath id="XMLID_29_">
+			<use xlink:href="#XMLID_217_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline id="XMLID_219_" class="st62" points="232,50.2 232.1,50.2 232.1,99.7 232,99.7 		"/>
+		<polyline id="XMLID_220_" class="st62" points="232,50.2 232.3,50.2 232.3,99.7 232,99.7 		"/>
+		<polyline id="XMLID_221_" class="st62" points="232.2,50.2 232.5,50.2 232.5,99.7 232.2,99.7 		"/>
+		<polyline id="XMLID_222_" class="st62" points="232.4,50.2 232.7,50.2 232.7,99.7 232.4,99.7 		"/>
+		<polyline id="XMLID_223_" class="st62" points="232.6,50.2 232.9,50.2 232.9,99.7 232.6,99.7 		"/>
+		<polyline id="XMLID_224_" class="st63" points="232.8,50.2 233.1,50.2 233.1,99.7 232.8,99.7 		"/>
+		<polyline id="XMLID_225_" class="st63" points="233,50.2 233.3,50.2 233.3,99.7 233,99.7 		"/>
+		<polyline id="XMLID_226_" class="st64" points="233.2,50.2 233.5,50.2 233.5,99.7 233.2,99.7 		"/>
+		<polyline id="XMLID_227_" class="st64" points="233.4,50.2 233.7,50.2 233.7,99.7 233.4,99.7 		"/>
+		<polyline id="XMLID_228_" class="st64" points="233.6,50.2 233.9,50.2 233.9,99.7 233.6,99.7 		"/>
+		<polyline id="XMLID_229_" class="st64" points="233.8,50.2 234.1,50.2 234.1,99.7 233.8,99.7 		"/>
+		<polyline id="XMLID_230_" class="st64" points="234,50.2 234.3,50.2 234.3,99.7 234,99.7 		"/>
+		<polyline id="XMLID_231_" class="st64" points="234.2,50.2 234.5,50.2 234.5,99.7 234.2,99.7 		"/>
+		<polyline id="XMLID_232_" class="st64" points="234.3,50.2 234.7,50.2 234.7,99.7 234.3,99.7 		"/>
+		<polyline id="XMLID_233_" class="st65" points="234.5,50.2 234.9,50.2 234.9,99.7 234.5,99.7 		"/>
+		<polyline id="XMLID_236_" class="st66" points="234.7,50.2 235.1,50.2 235.1,99.7 234.7,99.7 		"/>
+		<polyline id="XMLID_237_" class="st66" points="235,50.2 235.3,50.2 235.3,99.7 235,99.7 		"/>
+		<polyline id="XMLID_238_" class="st66" points="235.2,50.2 235.5,50.2 235.5,99.7 235.2,99.7 		"/>
+		<polyline id="XMLID_245_" class="st66" points="235.4,50.2 235.7,50.2 235.7,99.7 235.4,99.7 		"/>
+		<polyline id="XMLID_247_" class="st66" points="235.6,50.2 235.9,50.2 235.9,99.7 235.6,99.7 		"/>
+		<polyline id="XMLID_248_" class="st67" points="235.8,50.2 236.1,50.2 236.1,99.7 235.8,99.7 		"/>
+		<polyline id="XMLID_252_" class="st67" points="236,50.2 236.2,50.2 236.2,99.7 236,99.7 		"/>
+		<polyline id="XMLID_253_" class="st68" points="236.2,50.2 236.4,50.2 236.4,99.7 236.2,99.7 		"/>
+		<polyline id="XMLID_254_" class="st68" points="236.4,50.2 236.6,50.2 236.6,99.7 236.4,99.7 		"/>
+		<polyline id="XMLID_255_" class="st68" points="236.6,50.2 236.8,50.2 236.8,99.7 236.6,99.7 		"/>
+		<polyline id="XMLID_257_" class="st68" points="236.8,50.2 237,50.2 237,99.7 236.8,99.7 		"/>
+		<polyline id="XMLID_259_" class="st68" points="237,50.2 237.2,50.2 237.2,99.7 237,99.7 		"/>
+		<polyline id="XMLID_260_" class="st68" points="237.2,50.2 237.4,50.2 237.4,99.7 237.2,99.7 		"/>
+		<polyline id="XMLID_261_" class="st68" points="237.4,50.2 237.6,50.2 237.6,99.7 237.4,99.7 		"/>
+		<polyline id="XMLID_262_" class="st68" points="237.6,50.2 237.8,50.2 237.8,99.7 237.6,99.7 		"/>
+		<polyline id="XMLID_263_" class="st68" points="237.8,50.2 238.1,50.2 238.1,99.7 237.8,99.7 		"/>
+		<polyline id="XMLID_264_" class="st69" points="237.9,50.2 238.3,50.2 238.3,99.7 237.9,99.7 		"/>
+		<polyline id="XMLID_265_" class="st70" points="238.1,50.2 238.5,50.2 238.5,99.7 238.1,99.7 		"/>
+		<polyline id="XMLID_267_" class="st70" points="238.3,50.2 238.7,50.2 238.7,99.7 238.3,99.7 		"/>
+		<polyline id="XMLID_268_" class="st70" points="238.5,50.2 238.9,50.2 238.9,99.7 238.5,99.7 		"/>
+		<polyline id="XMLID_287_" class="st70" points="238.7,50.2 239.1,50.2 239.1,99.7 238.7,99.7 		"/>
+		<polyline id="XMLID_289_" class="st70" points="238.9,50.2 239.3,50.2 239.3,99.7 238.9,99.7 		"/>
+		<polyline id="XMLID_293_" class="st70" points="239.1,50.2 239.5,50.2 239.5,99.7 239.1,99.7 		"/>
+		<polyline id="XMLID_297_" class="st70" points="239.3,50.2 239.7,50.2 239.7,99.7 239.3,99.7 		"/>
+		<polyline id="XMLID_298_" class="st70" points="239.5,50.2 239.8,50.2 239.8,99.7 239.5,99.7 		"/>
+		<polyline id="XMLID_300_" class="st71" points="239.7,50.2 240,50.2 240,99.7 239.7,99.7 		"/>
+		<polyline id="XMLID_302_" class="st71" points="239.9,50.2 240.2,50.2 240.2,99.7 239.9,99.7 		"/>
+		<polyline id="XMLID_305_" class="st71" points="240.1,50.2 240.4,50.2 240.4,99.7 240.1,99.7 		"/>
+		<polyline id="XMLID_314_" class="st72" points="240.3,50.2 240.6,50.2 240.6,99.7 240.3,99.7 		"/>
+		<polyline id="XMLID_318_" class="st72" points="240.5,50.2 240.8,50.2 240.8,99.7 240.5,99.7 		"/>
+		<polyline id="XMLID_320_" class="st73" points="240.7,50.2 241,50.2 241,99.7 240.7,99.7 		"/>
+		<polyline id="XMLID_321_" class="st73" points="240.9,50.2 241.2,50.2 241.2,99.7 240.9,99.7 		"/>
+		<polyline id="XMLID_322_" class="st73" points="241.2,50.2 241.4,50.2 241.4,99.7 241.2,99.7 		"/>
+		<polyline id="XMLID_325_" class="st73" points="241.4,50.2 241.6,50.2 241.6,99.7 241.4,99.7 		"/>
+		<polyline id="XMLID_328_" class="st74" points="241.5,50.2 241.8,50.2 241.8,99.7 241.5,99.7 		"/>
+		<polyline id="XMLID_331_" class="st74" points="241.7,50.2 242,50.2 242,99.7 241.7,99.7 		"/>
+		<polyline id="XMLID_333_" class="st74" points="241.9,50.2 242.2,50.2 242.2,99.7 241.9,99.7 		"/>
+		<polyline id="XMLID_334_" class="st74" points="242.1,50.2 242.4,50.2 242.4,99.7 242.1,99.7 		"/>
+		<polyline id="XMLID_336_" class="st74" points="242.3,50.2 242.6,50.2 242.6,99.7 242.3,99.7 		"/>
+		<polyline id="XMLID_337_" class="st74" points="242.5,50.2 242.8,50.2 242.8,99.7 242.5,99.7 		"/>
+		<polyline id="XMLID_338_" class="st74" points="242.7,50.2 243,50.2 243,99.7 242.7,99.7 		"/>
+		<polyline id="XMLID_340_" class="st74" points="242.9,50.2 243.2,50.2 243.2,99.7 242.9,99.7 		"/>
+		<polyline id="XMLID_341_" class="st74" points="243.1,50.2 243.4,50.2 243.4,99.7 243.1,99.7 		"/>
+		<polyline id="XMLID_342_" class="st75" points="243.3,50.2 243.6,50.2 243.6,99.7 243.3,99.7 		"/>
+		<polyline id="XMLID_343_" class="st75" points="243.5,50.2 243.8,50.2 243.8,99.7 243.5,99.7 		"/>
+		<polyline id="XMLID_344_" class="st75" points="243.7,50.2 244,50.2 244,99.7 243.7,99.7 		"/>
+		<polyline id="XMLID_345_" class="st75" points="243.9,50.2 244.2,50.2 244.2,99.7 243.9,99.7 		"/>
+		<polyline id="XMLID_346_" class="st75" points="244.1,50.2 244.4,50.2 244.4,99.7 244.1,99.7 		"/>
+		<polyline id="XMLID_347_" class="st75" points="244.3,50.2 244.6,50.2 244.6,99.7 244.3,99.7 		"/>
+		<polyline id="XMLID_348_" class="st75" points="244.5,50.2 244.8,50.2 244.8,99.7 244.5,99.7 		"/>
+		<polyline id="XMLID_349_" class="st75" points="244.7,50.2 245,50.2 245,99.7 244.7,99.7 		"/>
+		<polyline id="XMLID_350_" class="st76" points="244.9,50.2 245.2,50.2 245.2,99.7 244.9,99.7 		"/>
+		<polyline id="XMLID_351_" class="st76" points="245.1,50.2 245.4,50.2 245.4,99.7 245.1,99.7 		"/>
+		<polyline id="XMLID_352_" class="st76" points="245.3,50.2 245.6,50.2 245.6,99.7 245.3,99.7 		"/>
+		<polyline id="XMLID_353_" class="st76" points="245.5,50.2 245.8,50.2 245.8,99.7 245.5,99.7 		"/>
+		<polyline id="XMLID_354_" class="st76" points="245.7,50.2 246,50.2 246,99.7 245.7,99.7 		"/>
+		<polyline id="XMLID_355_" class="st77" points="245.9,50.2 246.2,50.2 246.2,99.7 245.9,99.7 		"/>
+		<polyline id="XMLID_356_" class="st77" points="246.1,50.2 246.4,50.2 246.4,99.7 246.1,99.7 		"/>
+		<polyline id="XMLID_357_" class="st77" points="246.3,50.2 246.6,50.2 246.6,99.7 246.3,99.7 		"/>
+		<polyline id="XMLID_358_" class="st77" points="246.5,50.2 246.8,50.2 246.8,99.7 246.5,99.7 		"/>
+		<polyline id="XMLID_359_" class="st78" points="246.7,50.2 247,50.2 247,99.7 246.7,99.7 		"/>
+		<polyline id="XMLID_360_" class="st78" points="246.9,50.2 247.2,50.2 247.2,99.7 246.9,99.7 		"/>
+		<polyline id="XMLID_361_" class="st78" points="247.1,50.2 247.4,50.2 247.4,99.7 247.1,99.7 		"/>
+		<polyline id="XMLID_362_" class="st78" points="247.3,50.2 247.6,50.2 247.6,99.7 247.3,99.7 		"/>
+		<polyline id="XMLID_363_" class="st78" points="247.5,50.2 247.8,50.2 247.8,99.7 247.5,99.7 		"/>
+		<polyline id="XMLID_364_" class="st78" points="247.7,50.2 248,50.2 248,99.7 247.7,99.7 		"/>
+		<polyline id="XMLID_365_" class="st78" points="247.9,50.2 248.2,50.2 248.2,99.7 247.9,99.7 		"/>
+		<polyline id="XMLID_366_" class="st78" points="248.1,50.2 248.4,50.2 248.4,99.7 248.1,99.7 		"/>
+		<polyline id="XMLID_367_" class="st79" points="248.3,50.2 248.6,50.2 248.6,99.7 248.3,99.7 		"/>
+		<polyline id="XMLID_368_" class="st80" points="248.5,50.2 248.8,50.2 248.8,99.7 248.5,99.7 		"/>
+		<polyline id="XMLID_369_" class="st80" points="248.7,50.2 249,50.2 249,99.7 248.7,99.7 		"/>
+		<polyline id="XMLID_370_" class="st80" points="248.9,50.2 249.2,50.2 249.2,99.7 248.9,99.7 		"/>
+		<polyline id="XMLID_371_" class="st80" points="249.1,50.2 249.4,50.2 249.4,99.7 249.1,99.7 		"/>
+		<polyline id="XMLID_372_" class="st80" points="249.3,50.2 249.6,50.2 249.6,99.7 249.3,99.7 		"/>
+		<polyline id="XMLID_373_" class="st80" points="249.5,50.2 249.8,50.2 249.8,99.7 249.5,99.7 		"/>
+		<polyline id="XMLID_374_" class="st80" points="249.7,50.2 250,50.2 250,99.7 249.7,99.7 		"/>
+		<polyline id="XMLID_375_" class="st80" points="249.9,50.2 250.2,50.2 250.2,99.7 249.9,99.7 		"/>
+		<polyline id="XMLID_376_" class="st80" points="250.1,50.2 250.4,50.2 250.4,99.7 250.1,99.7 		"/>
+		<polyline id="XMLID_377_" class="st81" points="250.3,50.2 250.6,50.2 250.6,99.7 250.3,99.7 		"/>
+		<polyline id="XMLID_378_" class="st81" points="250.5,50.2 250.8,50.2 250.8,99.7 250.5,99.7 		"/>
+		<polyline id="XMLID_379_" class="st81" points="250.7,50.2 251,50.2 251,99.7 250.7,99.7 		"/>
+		<polyline id="XMLID_380_" class="st82" points="250.9,50.2 251.2,50.2 251.2,99.7 250.9,99.7 		"/>
+		<polyline id="XMLID_381_" class="st82" points="251.1,50.2 251.4,50.2 251.4,99.7 251.1,99.7 		"/>
+		<polyline id="XMLID_382_" class="st82" points="251.3,50.2 251.6,50.2 251.6,99.7 251.3,99.7 		"/>
+		<polyline id="XMLID_383_" class="st82" points="251.5,50.2 251.8,50.2 251.8,99.7 251.5,99.7 		"/>
+		<polyline id="XMLID_384_" class="st83" points="251.7,50.2 252,50.2 252,99.7 251.7,99.7 		"/>
+		<polyline id="XMLID_385_" class="st83" points="251.9,50.2 252.2,50.2 252.2,99.7 251.9,99.7 		"/>
+		<polyline id="XMLID_386_" class="st84" points="252.1,50.2 252.4,50.2 252.4,99.7 252.1,99.7 		"/>
+		<polyline id="XMLID_387_" class="st84" points="252.3,50.2 252.6,50.2 252.6,99.7 252.3,99.7 		"/>
+		<polyline id="XMLID_388_" class="st84" points="252.5,50.2 252.8,50.2 252.8,99.7 252.5,99.7 		"/>
+		<polyline id="XMLID_389_" class="st84" points="252.7,50.2 253,50.2 253,99.7 252.7,99.7 		"/>
+		<polyline id="XMLID_390_" class="st84" points="252.9,50.2 253.2,50.2 253.2,99.7 252.9,99.7 		"/>
+		<polyline id="XMLID_391_" class="st84" points="253.1,50.2 253.4,50.2 253.4,99.7 253.1,99.7 		"/>
+		<polyline id="XMLID_392_" class="st84" points="253.3,50.2 253.6,50.2 253.6,99.7 253.3,99.7 		"/>
+		<polyline id="XMLID_393_" class="st85" points="253.5,50.2 253.8,50.2 253.8,99.7 253.5,99.7 		"/>
+		<polyline id="XMLID_394_" class="st86" points="253.7,50.2 254,50.2 254,99.7 253.7,99.7 		"/>
+		<polyline id="XMLID_395_" class="st86" points="253.9,50.2 254.2,50.2 254.2,99.7 253.9,99.7 		"/>
+		<polyline id="XMLID_396_" class="st86" points="254.1,50.2 254.4,50.2 254.4,99.7 254.1,99.7 		"/>
+		<polyline id="XMLID_397_" class="st86" points="254.3,50.2 254.6,50.2 254.6,99.7 254.3,99.7 		"/>
+		<polyline id="XMLID_398_" class="st86" points="254.5,50.2 254.8,50.2 254.8,99.7 254.5,99.7 		"/>
+		<polyline id="XMLID_399_" class="st86" points="254.7,50.2 255,50.2 255,99.7 254.7,99.7 		"/>
+		<polyline id="XMLID_400_" class="st86" points="254.9,50.2 255.2,50.2 255.2,99.7 254.9,99.7 		"/>
+		<polyline id="XMLID_401_" class="st86" points="255.1,50.2 255.4,50.2 255.4,99.7 255.1,99.7 		"/>
+		<polyline id="XMLID_402_" class="st86" points="255.3,50.2 255.6,50.2 255.6,99.7 255.3,99.7 		"/>
+		<polyline id="XMLID_403_" class="st87" points="255.5,50.2 255.8,50.2 255.8,99.7 255.5,99.7 		"/>
+		<polyline id="XMLID_404_" class="st87" points="255.7,50.2 256,50.2 256,99.7 255.7,99.7 		"/>
+		<polyline id="XMLID_405_" class="st87" points="255.9,50.2 256.2,50.2 256.2,99.7 255.9,99.7 		"/>
+		<polyline id="XMLID_406_" class="st88" points="256.1,50.2 256.4,50.2 256.4,99.7 256.1,99.7 		"/>
+		<polyline id="XMLID_407_" class="st88" points="256.3,50.2 256.6,50.2 256.6,99.7 256.3,99.7 		"/>
+		<polyline id="XMLID_408_" class="st88" points="256.5,50.2 256.8,50.2 256.8,99.7 256.5,99.7 		"/>
+		<polyline id="XMLID_409_" class="st88" points="256.7,50.2 257,50.2 257,99.7 256.7,99.7 		"/>
+		<polyline id="XMLID_410_" class="st88" points="256.9,50.2 257.2,50.2 257.2,99.7 256.9,99.7 		"/>
+		<polyline id="XMLID_411_" class="st88" points="257.1,50.2 257.4,50.2 257.4,99.7 257.1,99.7 		"/>
+		<polyline id="XMLID_412_" class="st89" points="257.3,50.2 257.6,50.2 257.6,99.7 257.3,99.7 		"/>
+		<polyline id="XMLID_413_" class="st89" points="257.5,50.2 257.8,50.2 257.8,99.7 257.5,99.7 		"/>
+		<polyline id="XMLID_415_" class="st89" points="257.7,50.2 258,50.2 258,99.7 257.7,99.7 		"/>
+		<polyline id="XMLID_416_" class="st89" points="257.9,50.2 258.2,50.2 258.2,99.7 257.9,99.7 		"/>
+		<polyline id="XMLID_417_" class="st89" points="258.1,50.2 258.4,50.2 258.4,99.7 258.1,99.7 		"/>
+		<polyline id="XMLID_418_" class="st89" points="258.3,50.2 258.6,50.2 258.6,99.7 258.3,99.7 		"/>
+		<polyline id="XMLID_419_" class="st90" points="258.5,50.2 258.8,50.2 258.8,99.7 258.5,99.7 		"/>
+		<polyline id="XMLID_420_" class="st90" points="258.7,50.2 259,50.2 259,99.7 258.7,99.7 		"/>
+		<polyline id="XMLID_421_" class="st90" points="258.9,50.2 259.2,50.2 259.2,99.7 258.9,99.7 		"/>
+		<polyline id="XMLID_422_" class="st91" points="259.1,50.2 259.4,50.2 259.4,99.7 259.1,99.7 		"/>
+		<polyline id="XMLID_423_" class="st91" points="259.3,50.2 259.6,50.2 259.6,99.7 259.3,99.7 		"/>
+		<polyline id="XMLID_424_" class="st91" points="259.5,50.2 259.8,50.2 259.8,99.7 259.5,99.7 		"/>
+		<polyline id="XMLID_425_" class="st91" points="259.7,50.2 260,50.2 260,99.7 259.7,99.7 		"/>
+		<polyline id="XMLID_426_" class="st91" points="259.9,50.2 260.2,50.2 260.2,99.7 259.9,99.7 		"/>
+		<polyline id="XMLID_427_" class="st91" points="260.1,50.2 260.4,50.2 260.4,99.7 260.1,99.7 		"/>
+		<polyline id="XMLID_428_" class="st91" points="260.3,50.2 260.6,50.2 260.6,99.7 260.3,99.7 		"/>
+		<polyline id="XMLID_429_" class="st91" points="260.5,50.2 260.8,50.2 260.8,99.7 260.5,99.7 		"/>
+		<polyline id="XMLID_430_" class="st91" points="260.7,50.2 261,50.2 261,99.7 260.7,99.7 		"/>
+		<polyline id="XMLID_431_" class="st92" points="260.9,50.2 261.2,50.2 261.2,99.7 260.9,99.7 		"/>
+		<polyline id="XMLID_432_" class="st93" points="261.1,50.2 261.4,50.2 261.4,99.7 261.1,99.7 		"/>
+		<polyline id="XMLID_433_" class="st93" points="261.3,50.2 261.6,50.2 261.6,99.7 261.3,99.7 		"/>
+		<polyline id="XMLID_434_" class="st93" points="261.5,50.2 261.8,50.2 261.8,99.7 261.5,99.7 		"/>
+		<polyline id="XMLID_435_" class="st93" points="261.7,50.2 262,50.2 262,99.7 261.7,99.7 		"/>
+		<polyline id="XMLID_436_" class="st93" points="261.9,50.2 262.2,50.2 262.2,99.7 261.9,99.7 		"/>
+		<polyline id="XMLID_437_" class="st93" points="262.1,50.2 262.4,50.2 262.4,99.7 262.1,99.7 		"/>
+		<polyline id="XMLID_438_" class="st93" points="262.3,50.2 262.6,50.2 262.6,99.7 262.3,99.7 		"/>
+		<polyline id="XMLID_439_" class="st94" points="262.5,50.2 262.8,50.2 262.8,99.7 262.5,99.7 		"/>
+		<polyline id="XMLID_440_" class="st94" points="262.7,50.2 263,50.2 263,99.7 262.7,99.7 		"/>
+		<polyline id="XMLID_441_" class="st95" points="262.9,50.2 263.2,50.2 263.2,99.7 262.9,99.7 		"/>
+		<polyline id="XMLID_442_" class="st95" points="263.1,50.2 263.4,50.2 263.4,99.7 263.1,99.7 		"/>
+		<polyline id="XMLID_443_" class="st95" points="263.3,50.2 263.6,50.2 263.6,99.7 263.3,99.7 		"/>
+		<polyline id="XMLID_444_" class="st95" points="263.5,50.2 263.8,50.2 263.8,99.7 263.5,99.7 		"/>
+		<polyline id="XMLID_445_" class="st96" points="263.7,50.2 264,50.2 264,99.7 263.7,99.7 		"/>
+		<polyline id="XMLID_446_" class="st96" points="263.9,50.2 264.2,50.2 264.2,99.7 263.9,99.7 		"/>
+		<polyline id="XMLID_447_" class="st96" points="264.1,50.2 264.4,50.2 264.4,99.7 264.1,99.7 		"/>
+		<polyline id="XMLID_448_" class="st97" points="264.3,50.2 264.6,50.2 264.6,99.7 264.3,99.7 		"/>
+		<polyline id="XMLID_449_" class="st97" points="264.5,50.2 264.8,50.2 264.8,99.7 264.5,99.7 		"/>
+		<polyline id="XMLID_450_" class="st97" points="264.7,50.2 265,50.2 265,99.7 264.7,99.7 		"/>
+		<polyline id="XMLID_451_" class="st97" points="264.9,50.2 265.2,50.2 265.2,99.7 264.9,99.7 		"/>
+		<polyline id="XMLID_452_" class="st97" points="265,50.2 265.4,50.2 265.4,99.7 265,99.7 		"/>
+		<polyline id="XMLID_453_" class="st97" points="265.2,50.2 265.6,50.2 265.6,99.7 265.2,99.7 		"/>
+		<polyline id="XMLID_454_" class="st97" points="265.4,50.2 265.8,50.2 265.8,99.7 265.4,99.7 		"/>
+		<polyline id="XMLID_455_" class="st97" points="265.6,50.2 266,50.2 266,99.7 265.6,99.7 		"/>
+		<polyline id="XMLID_456_" class="st97" points="265.9,50.2 266.2,50.2 266.2,99.7 265.9,99.7 		"/>
+		<polyline id="XMLID_457_" class="st98" points="266.1,50.2 266.4,50.2 266.4,99.7 266.1,99.7 		"/>
+		<polyline id="XMLID_458_" class="st99" points="266.3,50.2 266.6,50.2 266.6,99.7 266.3,99.7 		"/>
+		<polyline id="XMLID_459_" class="st99" points="266.5,50.2 266.7,50.2 266.7,99.7 266.5,99.7 		"/>
+		<polyline id="XMLID_460_" class="st99" points="266.7,50.2 266.9,50.2 266.9,99.7 266.7,99.7 		"/>
+		<polyline id="XMLID_461_" class="st99" points="266.9,50.2 267.1,50.2 267.1,99.7 266.9,99.7 		"/>
+		<polyline id="XMLID_462_" class="st99" points="267.1,50.2 267.3,50.2 267.3,99.7 267.1,99.7 		"/>
+		<polyline id="XMLID_463_" class="st99" points="267.3,50.2 267.5,50.2 267.5,99.7 267.3,99.7 		"/>
+		<polyline id="XMLID_464_" class="st99" points="267.5,50.2 267.7,50.2 267.7,99.7 267.5,99.7 		"/>
+		<polyline id="XMLID_465_" class="st99" points="267.7,50.2 267.9,50.2 267.9,99.7 267.7,99.7 		"/>
+		<polyline id="XMLID_466_" class="st100" points="267.9,50.2 268.1,50.2 268.1,99.7 267.9,99.7 		"/>
+		<polyline id="XMLID_467_" class="st100" points="268.1,50.2 268.3,50.2 268.3,99.7 268.1,99.7 		"/>
+		<polyline id="XMLID_468_" class="st100" points="268.3,50.2 268.5,50.2 268.5,99.7 268.3,99.7 		"/>
+		<polyline id="XMLID_469_" class="st100" points="268.5,50.2 268.7,50.2 268.7,99.7 268.5,99.7 		"/>
+		<polyline id="XMLID_470_" class="st101" points="268.6,50.2 269,50.2 269,99.7 268.6,99.7 		"/>
+		<polyline id="XMLID_471_" class="st101" points="268.8,50.2 269.2,50.2 269.2,99.7 268.8,99.7 		"/>
+		<polyline id="XMLID_472_" class="st101" points="269,50.2 269.4,50.2 269.4,99.7 269,99.7 		"/>
+		<polyline id="XMLID_473_" class="st101" points="269.2,50.2 269.6,50.2 269.6,99.7 269.2,99.7 		"/>
+		<polyline id="XMLID_474_" class="st101" points="269.4,50.2 269.8,50.2 269.8,99.7 269.4,99.7 		"/>
+		<polyline id="XMLID_475_" class="st102" points="269.6,50.2 270,50.2 270,99.7 269.6,99.7 		"/>
+		<polyline id="XMLID_476_" class="st102" points="269.8,50.2 270.2,50.2 270.2,99.7 269.8,99.7 		"/>
+		<polyline id="XMLID_477_" class="st102" points="270,50.2 270.3,50.2 270.3,99.7 270,99.7 		"/>
+		<polyline id="XMLID_478_" class="st102" points="270.2,50.2 270.5,50.2 270.5,99.7 270.2,99.7 		"/>
+		<polyline id="XMLID_479_" class="st102" points="270.4,50.2 270.7,50.2 270.7,99.7 270.4,99.7 		"/>
+		<polyline id="XMLID_480_" class="st102" points="270.6,50.2 270.9,50.2 270.9,99.7 270.6,99.7 		"/>
+		<polyline id="XMLID_481_" class="st102" points="270.8,50.2 271.1,50.2 271.1,99.7 270.8,99.7 		"/>
+		<polyline id="XMLID_482_" class="st102" points="271,50.2 271.3,50.2 271.3,99.7 271,99.7 		"/>
+		<polyline id="XMLID_483_" class="st103" points="271.2,50.2 271.5,50.2 271.5,99.7 271.2,99.7 		"/>
+		<polyline id="XMLID_484_" class="st103" points="271.4,50.2 271.7,50.2 271.7,99.7 271.4,99.7 		"/>
+		<polyline id="XMLID_485_" class="st103" points="271.6,50.2 271.9,50.2 271.9,99.7 271.6,99.7 		"/>
+		<polyline id="XMLID_486_" class="st103" points="271.8,50.2 272.1,50.2 272.1,99.7 271.8,99.7 		"/>
+		<polyline id="XMLID_487_" class="st103" points="272.1,50.2 272.3,50.2 272.3,99.7 272.1,99.7 		"/>
+		<polyline id="XMLID_488_" class="st103" points="272.2,50.2 272.5,50.2 272.5,99.7 272.2,99.7 		"/>
+		<polyline id="XMLID_489_" class="st103" points="272.4,50.2 272.7,50.2 272.7,99.7 272.4,99.7 		"/>
+		<polyline id="XMLID_490_" class="st103" points="272.6,50.2 272.9,50.2 272.9,99.7 272.6,99.7 		"/>
+		<polyline id="XMLID_491_" class="st103" points="272.8,50.2 273.1,50.2 273.1,99.7 272.8,99.7 		"/>
+		<polyline id="XMLID_492_" class="st104" points="273,50.2 273.3,50.2 273.3,99.7 273,99.7 		"/>
+		<polyline id="XMLID_493_" class="st104" points="273.2,50.2 273.5,50.2 273.5,99.7 273.2,99.7 		"/>
+		<polyline id="XMLID_494_" class="st104" points="273.4,50.2 273.7,50.2 273.7,99.7 273.4,99.7 		"/>
+		<polyline id="XMLID_495_" class="st104" points="273.6,50.2 273.9,50.2 273.9,99.7 273.6,99.7 		"/>
+		<polyline id="XMLID_496_" class="st105" points="273.8,50.2 274.1,50.2 274.1,99.7 273.8,99.7 		"/>
+		<polyline id="XMLID_497_" class="st105" points="274,50.2 274.3,50.2 274.3,99.7 274,99.7 		"/>
+		<polyline id="XMLID_498_" class="st106" points="274.2,50.2 274.5,50.2 274.5,99.7 274.2,99.7 		"/>
+		<polyline id="XMLID_499_" class="st106" points="274.4,50.2 274.7,50.2 274.7,99.7 274.4,99.7 		"/>
+		<polyline id="XMLID_500_" class="st106" points="274.6,50.2 274.9,50.2 274.9,99.7 274.6,99.7 		"/>
+		<polyline id="XMLID_501_" class="st107" points="274.8,50.2 275.1,50.2 275.1,99.7 274.8,99.7 		"/>
+		<polyline id="XMLID_502_" class="st107" points="275,50.2 275.3,50.2 275.3,99.7 275,99.7 		"/>
+		<polyline id="XMLID_503_" class="st107" points="275.2,50.2 275.5,50.2 275.5,99.7 275.2,99.7 		"/>
+		<polyline id="XMLID_504_" class="st107" points="275.4,50.2 275.7,50.2 275.7,99.7 275.4,99.7 		"/>
+		<polyline id="XMLID_505_" class="st107" points="275.6,50.2 275.9,50.2 275.9,99.7 275.6,99.7 		"/>
+		<polyline id="XMLID_506_" class="st107" points="275.8,50.2 276.1,50.2 276.1,99.7 275.8,99.7 		"/>
+		<polyline id="XMLID_507_" class="st107" points="276,50.2 276.3,50.2 276.3,99.7 276,99.7 		"/>
+		<polyline id="XMLID_508_" class="st107" points="276.2,50.2 276.5,50.2 276.5,99.7 276.2,99.7 		"/>
+		<polyline id="XMLID_509_" class="st108" points="276.4,50.2 276.7,50.2 276.7,99.7 276.4,99.7 		"/>
+		<polyline id="XMLID_510_" class="st109" points="276.6,50.2 276.9,50.2 276.9,99.7 276.6,99.7 		"/>
+		<polyline id="XMLID_511_" class="st109" points="276.8,50.2 277.1,50.2 277.1,99.7 276.8,99.7 		"/>
+		<polyline id="XMLID_512_" class="st109" points="277,50.2 277.3,50.2 277.3,99.7 277,99.7 		"/>
+		<polyline id="XMLID_513_" class="st109" points="277.2,50.2 277.5,50.2 277.5,99.7 277.2,99.7 		"/>
+		<polyline id="XMLID_514_" class="st109" points="277.4,50.2 277.7,50.2 277.7,99.7 277.4,99.7 		"/>
+		<polyline id="XMLID_515_" class="st109" points="277.6,50.2 277.9,50.2 277.9,99.7 277.6,99.7 		"/>
+		<polyline id="XMLID_516_" class="st109" points="277.8,50.2 278.1,50.2 278.1,99.7 277.8,99.7 		"/>
+		<polyline id="XMLID_517_" class="st109" points="278,50.2 278.3,50.2 278.3,99.7 278,99.7 		"/>
+		<polyline id="XMLID_518_" class="st109" points="278.2,50.2 278.5,50.2 278.5,99.7 278.2,99.7 		"/>
+		<polyline id="XMLID_519_" class="st110" points="278.4,50.2 278.7,50.2 278.7,99.7 278.4,99.7 		"/>
+		<polyline id="XMLID_520_" class="st110" points="278.6,50.2 278.9,50.2 278.9,99.7 278.6,99.7 		"/>
+		<polyline id="XMLID_521_" class="st111" points="278.8,50.2 279.1,50.2 279.1,99.7 278.8,99.7 		"/>
+		<polyline id="XMLID_522_" class="st111" points="279,50.2 279.3,50.2 279.3,99.7 279,99.7 		"/>
+		<polyline id="XMLID_523_" class="st111" points="279.2,50.2 279.5,50.2 279.5,99.7 279.2,99.7 		"/>
+		<polyline id="XMLID_524_" class="st111" points="279.4,50.2 279.7,50.2 279.7,99.7 279.4,99.7 		"/>
+		<polyline id="XMLID_525_" class="st111" points="279.6,50.2 279.9,50.2 279.9,99.7 279.6,99.7 		"/>
+		<polyline id="XMLID_526_" class="st112" points="279.8,50.2 280.1,50.2 280.1,99.7 279.8,99.7 		"/>
+		<polyline id="XMLID_527_" class="st113" points="280,50.2 280.3,50.2 280.3,99.7 280,99.7 		"/>
+		<polyline id="XMLID_528_" class="st113" points="280.2,50.2 280.5,50.2 280.5,99.7 280.2,99.7 		"/>
+		<polyline id="XMLID_529_" class="st113" points="280.4,50.2 280.7,50.2 280.7,99.7 280.4,99.7 		"/>
+		<polyline id="XMLID_530_" class="st113" points="280.6,50.2 280.9,50.2 280.9,99.7 280.6,99.7 		"/>
+		<polyline id="XMLID_531_" class="st113" points="280.8,50.2 281.1,50.2 281.1,99.7 280.8,99.7 		"/>
+		<polyline id="XMLID_532_" class="st113" points="281,50.2 281.3,50.2 281.3,99.7 281,99.7 		"/>
+		<polyline id="XMLID_533_" class="st113" points="281.2,50.2 281.5,50.2 281.5,99.7 281.2,99.7 		"/>
+		<polyline id="XMLID_534_" class="st114" points="281.4,50.2 281.7,50.2 281.7,99.7 281.4,99.7 		"/>
+		<polyline id="XMLID_535_" class="st114" points="281.6,50.2 281.9,50.2 281.9,99.7 281.6,99.7 		"/>
+		<polyline id="XMLID_536_" class="st115" points="281.8,50.2 282.1,50.2 282.1,99.7 281.8,99.7 		"/>
+		<polyline id="XMLID_537_" class="st115" points="282,50.2 282.3,50.2 282.3,99.7 282,99.7 		"/>
+		<polyline id="XMLID_538_" class="st115" points="282.2,50.2 282.5,50.2 282.5,99.7 282.2,99.7 		"/>
+		<polyline id="XMLID_539_" class="st115" points="282.4,50.2 282.7,50.2 282.7,99.7 282.4,99.7 		"/>
+		<polyline id="XMLID_540_" class="st115" points="282.6,50.2 283,50.2 283,99.7 282.6,99.7 		"/>
+	</g>
+	<path id="XMLID_542_" class="st1" d="M232.7,99h49.5V52.1c0-0.6-0.5-1.1-1.1-1.1h-47.3c-0.6,0-1.1,0.5-1.1,1.1V99z M283.8,100.5
+		h-52.5V52.1c0-1.4,1.2-2.6,2.6-2.6h47.3c1.4,0,2.6,1.2,2.6,2.6V100.5z"/>
+	<polygon id="XMLID_544_" class="st60" points="221.9,75 221.7,75 221.7,115.8 257.1,95.5 	"/>
+	<polygon id="XMLID_545_" class="st60" points="292.4,75.3 257.1,95.5 292.2,116.2 292.4,116.2 	"/>
+	<polygon id="XMLID_546_" class="st0" points="221.7,115.8 221.7,116.2 292.2,116.2 257.1,95.5 237,107 	"/>
+	<polygon id="XMLID_547_" class="st1" points="283,112.1 221.6,75.6 222.3,74.3 283.8,110.9 	"/>
+	<polygon id="XMLID_548_" class="st1" points="237.4,107.7 236.6,106.4 291.9,74.7 292.6,76 	"/>
+	<path id="XMLID_549_" class="st1" d="M293.1,80.5l-1.5,0v-3.7c0-0.8-0.5-1.6-1.2-2l-4.4-2.9l0.8-1.3l4.4,2.9c1.2,0.7,1.9,2,1.9,3.3
+		V80.5z"/>
+	<path id="XMLID_550_" class="st1" d="M268.6,116.6l-43.8,0c-2.1,0-3.9-1.7-3.9-3.9l0.1-36c0-1.3,0.7-2.6,1.9-3.3l5-2.9l0.8,1.3
+		l-5,2.9c-0.7,0.4-1.2,1.2-1.2,2l-0.1,35.9c0,1.3,1,2.4,2.4,2.4l43.8,0V116.6z"/>
+	<rect id="XMLID_551_" x="271.8" y="115.1" class="st1" width="8.6" height="1.5"/>
+	<polygon id="XMLID_552_" class="st2" points="250.1,79.8 250.1,62.4 265.1,71.1 250.1,79.8 250.1,62.4 265.1,71.1 	"/>
+</g>
+<g id="XMLID_54_">
+	<path id="XMLID_57_" class="st2" d="M45.5,34.3H2.7c-1,0-1.9-0.9-1.9-1.9V2.7c0-1,0.9-1.9,1.9-1.9h42.8c1.1,0,1.9,0.9,1.9,1.9v29.7
+		C47.4,33.4,46.5,34.3,45.5,34.3L45.5,34.3z"/>
+	<path id="XMLID_58_" class="st1" d="M45.2,35.1H2.9c-1.6,0-2.9-1.3-2.9-2.9V2.9C0,1.3,1.3,0,2.9,0h35.3v1.5H2.9
+		c-0.8,0-1.4,0.6-1.4,1.4v29.2c0,0.8,0.6,1.4,1.4,1.4h42.3c0.8,0,1.4-0.6,1.4-1.4V2.9c0-0.8-0.6-1.4-1.4-1.4h-2.3V0h2.3
+		c1.6,0,2.9,1.3,2.9,2.9v29.2C48.1,33.8,46.8,35.1,45.2,35.1L45.2,35.1z"/>
+	<rect id="XMLID_59_" x="39.4" y="0" class="st1" width="2.7" height="1.5"/>
+	<rect id="XMLID_128_" x="3.6" y="13.2" class="st1" width="1.5" height="8.6"/>
+	<rect id="XMLID_154_" x="6.8" y="3.6" class="st0" width="34.1" height="27.8"/>
+	<path id="XMLID_193_" class="st1" d="M43.1,17.1c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5
+		S43.3,17.1,43.1,17.1L43.1,17.1z M43.1,19.5c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2c1.1,0,2,0.9,2,2C45,18.6,44.2,19.5,43.1,19.5
+		L43.1,19.5z"/>
+	<path id="XMLID_204_" class="st59" d="M28.6,15.4l-8.3,4.8c-0.5,0.3-1.2-0.1-1.2-0.7V9.9c0-0.6,0.7-1,1.2-0.7l8.3,4.8
+		C29.1,14.3,29.1,15.1,28.6,15.4L28.6,15.4z"/>
+	<path id="XMLID_208_" class="st60" d="M19.9,9.9l0,9.6l8.3-4.8c0,0,0,0,0,0L19.9,9.9z M19.9,21c-0.3,0-0.5-0.1-0.8-0.2
+		c-0.5-0.3-0.8-0.8-0.8-1.3V9.9c0-0.6,0.3-1,0.8-1.3c0.5-0.3,1-0.3,1.5,0l8.3,4.8c0.5,0.3,0.8,0.8,0.8,1.3c0,0.5-0.3,1-0.8,1.3l0,0
+		l-8.3,4.8C20.4,20.9,20.2,21,19.9,21L19.9,21z"/>
+	<rect id="XMLID_212_" x="11" y="25.3" class="st1" width="26.1" height="1.5"/>
+	<rect id="XMLID_213_" x="16.1" y="24" class="st1" width="1.5" height="4.1"/>
+</g>
+</svg>
