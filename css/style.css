@@ -1177,15 +1177,14 @@ input[type="radio"]:checked {
      Contact
 *********************/
 
-/* .container{
-  margin-top:130px;
-  margin-left:140px;
-} */
+.contact{
+    padding:10% 5% 0% 5%;
+}
 
 .contact-row{
     display: flex;
     align-items: center;
-    margin:0;
+    margin:10px 0px;
 }
 
 .contact-col-2 {
