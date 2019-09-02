@@ -1097,14 +1097,18 @@ select {
 
 .radio{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     width: 70%;
     margin: auto auto 4% auto;
 }
 
 .radio1,.radio2,.radio3{
-    width: 30%;
+    width: 33%;
     margin: auto;
+}
+
+.radio1 p,.radio2 p,.radio3 p{
+    display: inline;
 }
 
 [type="radio"]:checked,
