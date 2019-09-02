@@ -290,7 +290,7 @@ h4 {
   transform: translate(-30%, -47%);
 }
 
-@media only screen and (max-width:1400px){
+@media only screen and (max-width:1399px){
     
     .custom-title {
         font-size: 160px;
@@ -310,6 +310,19 @@ h4 {
     
     .home-col-2 {
         width:62%;
+    }
+
+    .card img{
+        width: 180px;
+        height: 160px;
+    }
+    
+    .card.keypoint-card{
+        width: 33%;
+    }
+      
+    .card-text.bottom{
+        min-height: 600px;
     }
 }
 
