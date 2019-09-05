@@ -1455,8 +1455,8 @@ select {
     font-size: 24px;
   }
 
-  .footer-link {
-    font-size: 26px;
+  .footer-nav a{
+    font-size: 22px;
   }
 
 }
