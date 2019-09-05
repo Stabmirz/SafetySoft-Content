@@ -742,8 +742,8 @@ select {
 
 .radio{
   display: flex;
-  width: 70%;
-  margin: 0 8% 4% auto;
+  width: 85%;
+  margin: 0 0 4% auto;
 }
 
 .radio1,.radio2,.radio3{
@@ -1556,6 +1556,7 @@ select {
   .app-form {
     padding: 150px 0px 0px 0px;
   }
+
 
   /* contact */
   .contact {
