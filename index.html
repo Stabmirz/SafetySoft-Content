@@ -271,21 +271,21 @@
                             <div class="radio">
                                 <div class="radio1">
                                     <p>Yes</p>
-                                    <input type="radio" id="radio1" name="radio-group" checked>
+                                    <input type="radio" id="radio1" name="radio-group" onclick="showInputBox(1)" value="Yes" checked>
                                     <label for="radio1"></label>
                                 </div>
                                 <div class="radio2">
                                     <p>No</p>
-                                    <input type="radio" id="radio2" name="radio-group">
+                                    <input type="radio" id="radio2" name="radio-group" onclick="showInputBox(0)" value="No">
                                     <label for="radio2"></label>
                                 </div>
                                 <div class="radio3">
                                     <p>Not sure</p>
-                                    <input type="radio" id="radio3" name="radio-group">
+                                    <input type="radio" id="radio3" name="radio-group" onclick="showInputBox(0)" value="Not-Sure">
                                     <label for="radio3"></label>
                                 </div>
                             </div>
-                            <input class="input-style-input" type="text" placeholder="Mind sharing which one?   ..." />
+                            <input class="input-style-input" id="inputBox" type="text" placeholder="Mind sharing which one?   ..." />
                         </div>
                         <div class="form-row-btn" data-aos="fade-up" data-aos-once="true" data-aos-duration="1000" data-aos-delay="100">
                             <div class="form-label">Atlantic Training needs the

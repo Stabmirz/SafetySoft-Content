@@ -42,4 +42,14 @@ $(document).ready(function () {
     $_.init();
 });
 
+function showInputBox(num){
 
+    if(num==1)
+    document.getElementById('inputBox').style.display='block';
+
+    else
+
+    document.getElementById('inputBox').style.display='none';
+
+    return;
+}
