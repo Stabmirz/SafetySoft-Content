@@ -787,7 +787,7 @@ select {
   border-radius: 100%;
 }
 
-[type="radio"]:checked + label:before{
+#radio1:checked + label:before{
   content: '';
   position: absolute;
   left: -75px;
@@ -799,6 +799,10 @@ select {
   border: 40px solid rgb(255, 255, 255);
   border-top-right-radius: 100%;
   border-top-left-radius: 100%;
+}
+
+#inputBox{
+  display: none;
 }
 
 [type="radio"]:checked + label:after,
