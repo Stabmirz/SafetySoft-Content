@@ -426,58 +426,7 @@ h4 {
   outline: none;
 }
 
-/* @include media_1600 {
-  .content {
-    padding: 40px 0;
-  }
-}
 
-@include media_1300 {
-  .content {
-    .anim-icon-wrap {
-      width: 350px;
-      height: 400px;
-    }
-  }
-}
-
-@include media_1000 {
-  .content {
-    .anim-icon-wrap {
-      width: 300px;
-      height: 350px;
-    }
-  }
-}
-
-@include media_700 {
-  .content {
-    padding: 30px 0;
-
-
-    .anim-icon-wrap {
-      width: 200px;
-      height: 200px;
-      margin: 30px auto;
-    }
-
-    .tools-content-wrap {
-      padding-left: 0;
-    }
-
-    .tools-row {
-      display: block;
-    }
-
-    .tools-col {
-      width: 100%;
-
-      h4 {
-        margin-bottom: 10px;
-      }
-    }
-  }
-} */
 
 /************************
      Keypoint Section 
@@ -821,12 +770,17 @@ select {
 .radio{
   display: flex;
   justify-content: space-evenly;
-  width: 70%;
+  width: 80%;
   margin: auto auto 4% auto;
 }
 
-.radio1,.radio2,.radio3{
-  width: 33%;
+.radio1,.radio2{
+  width: 30%;
+  margin: auto;
+}
+
+.radio3{
+  width: 35%;
   margin: auto;
 }
 
