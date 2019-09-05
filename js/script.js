@@ -51,7 +51,6 @@ var $_ = {
 
 function showInputBox(num){
 
-    alert(1);
     if(num==1){
     document.getElementById('inputBox').style.display='block';
     }
