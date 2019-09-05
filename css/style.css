@@ -12,6 +12,7 @@ body{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  min-width: 970px;
 }
 
 .container {
@@ -439,7 +440,7 @@ h4 {
 .keypoint-row{
   display: flex;
   justify-content: space-around;
-  position: relative;
+  /* position: relative; */
 }  
 
 .keypoint-title {
@@ -455,8 +456,12 @@ h4 {
   background-image: -o-linear-gradient(45deg, #f0f8fe, #cbe1ef);
   -webkit-background-clip: text;
   position: absolute;
-  top:-164px;
+  top:-129px;
   left:250px;
+}
+
+.card{
+  background-color: none;
 }
 
 .card-body{
@@ -474,8 +479,8 @@ h4 {
 .card.keypoint-card{
   border: none;
   background-color: white;
-  margin: auto;
-  width: 30%;
+  flex:1;
+  padding: 1em;
 }
   
 .keypoint-card .top{
