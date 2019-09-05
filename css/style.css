@@ -12,7 +12,6 @@ body{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  min-width: 970px;
 }
 
 .container {
@@ -20,6 +19,7 @@ body{
   max-width: 1580px;
   padding-right: 0px;
   padding-left: 0px;
+  /* overflow: hidden; */
 }
 
 .col-1 {
@@ -455,7 +455,7 @@ h4 {
   background-image: -o-linear-gradient(45deg, #f0f8fe, #cbe1ef);
   -webkit-background-clip: text;
   position: absolute;
-  top:-129px;
+  top:-164px;
   left:250px;
 }
 
@@ -509,19 +509,19 @@ h4 {
 .keypoint-icon:nth-child(1){
   max-width: 38px;
   left: 235px;
-  top: -65px;
+  top: -100px;
 }
   
 .keypoint-icon:nth-child(2){
   max-width: 12px;
   left: 980px;
-  top: -89px;
+  top: -124px;
 }
   
 .keypoint-icon:nth-child(3){
   max-width: 33px;
   left: 1000px;
-  top: -82px;
+  top: -117px;
 }
 
 /********************
