@@ -1438,16 +1438,11 @@ select {
   }
 
   .footer {
-    padding: 200px 10px 80px;
-  }
-
-  .footer-logo-wrap {
-    display: block;
-    margin-bottom: 30px;
+    padding: 200px 40px 80px;
   }
 
   .footer-logo {
-    margin-right: 0;
+    margin-right: 50px;
     margin-bottom: 35px;
   }
 
