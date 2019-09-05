@@ -743,7 +743,7 @@ select {
 .radio{
   display: flex;
   width: 70%;
-  margin: auto auto 4% auto;
+  margin: 0 8% 4% auto;
 }
 
 .radio1,.radio2,.radio3{

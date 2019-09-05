@@ -38,9 +38,9 @@ var $_ = {
 
 };
 
-$(document).ready(function () {
-    $_.init();
-});
+// $(document).ready(function () {
+//     $_.init();
+// });
 
 function showInputBox(num){
 
