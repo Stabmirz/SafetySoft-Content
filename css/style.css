@@ -25,8 +25,8 @@ body{
 .container {
   margin: 0 auto;
   max-width: 1580px;
-  padding-right: 0px;
-  padding-left: 0px;
+  padding:2% 0px;
+  /* overflow: hidden; */
 }
 
 .col-1 {
@@ -239,19 +239,19 @@ h4 {
   
 .home-icon:nth-child(2){
   max-width: 55px;
-  left: 710px;
+  left: 758px;
   top: 510px;
 }
   
 .home-icon:nth-child(3){
   max-width: 30px;
-  left: 720px;
+  left: 770px;
   top: 440px;
 }
   
 .home-icon:nth-child(4){
   max-width: 10px;
-  left: 770px;
+  left: 800px;
   top: 480px;
 }
   
@@ -275,8 +275,9 @@ h4 {
 }
 
 .content {
+  width:100%;
   position: relative;
-  padding: 200px 30px 150px 50px;
+  padding: 5% 2% 5% 5%;
 }
 
 .cRow {
@@ -463,9 +464,6 @@ button.btn-style:focus{
   background-image: -webkit-linear-gradient(45deg,#f0f8fe, #cbe1ef);
   background-image: -o-linear-gradient(45deg, #f0f8fe, #cbe1ef);
   -webkit-background-clip: text;
-  /* position: absolute;
-  top:-164px;
-  left:250px; */
 }
 
 .card-body{
@@ -1077,10 +1075,6 @@ label{
     margin: 30px 0px 0px 0px;
   }
 
-  .home-image {
-    transform: translate(-39%, -49%);
-  }
-
   .home-col-1 {
     width:90%;
     margin: auto;
@@ -1094,9 +1088,14 @@ label{
     max-width: 100%;
     font-size: 38px;
   }
+
   .home-col-2 {
-    width:100%;
+    width:80%;
     margin: auto;
+  }
+
+  .home-bg{
+    width:100%;
   }
 
   .home-btn-wrap{
@@ -1108,8 +1107,8 @@ label{
   }
 
   .home-img-wrapper {
-    top: 321px;
-    width:735px;
+    top: 320px;
+    width:700px;
   }
 
   .home-icon:nth-child(1) {
@@ -1277,8 +1276,39 @@ label{
     padding: 50px 0px 0px 0px;
   }
 
+
+  .placeholder-form {
+    width: 90%;
+  }
+
   .lms-text{
     font-size: 28px;
+  }
+
+  .hs_firstname, .hs_lastname, .hs_company,.hs_email, .hs_phone, .hs_numemployees{
+    float: none;
+    width:100%;
+  }
+
+  .hs-form label.right {
+    right: 0px;
+    left:45px;
+  }
+
+  .hs-form label {
+    font-size: 26px;
+  }
+
+  .hs-form .hs-form-field {
+    margin-bottom: 60px;
+  }
+
+  .form-columns-1, .form-columns-2{
+    margin-top: 0px;
+  }
+
+  select#numemployees.hs-input{
+    font-size: 26px;
   }
 
   .input-style-label, .input-style-label-right{
@@ -1317,8 +1347,8 @@ label{
     margin-right: 0px;
   }
 
-  .submit{
-    text-align: center;
+  .hs_submit{
+    align-self: center;
   }
 
   
