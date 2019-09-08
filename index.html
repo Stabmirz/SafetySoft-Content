@@ -216,77 +216,114 @@
             <div class="container">
                 <p id="text" data-aos="fade-up" data-aos-once="true" data-aos-duration="1000">Placeholder Form</p>
                 <div class="placeholder-form">
-                    <form class="form">
-                        <div class="form-row">
-                            <div class="form-col">
-                                <div class="input-style">
-                                    <input class="input-style-input required" type="text" placeholder="" />
-                                    <div class="input-style-label">First name *</div>
+                    <form accept-charset="UTF-8"class="hs-form stacked hs-custom-form">
+                        <fieldset class="form-columns-2">
+                            <div class="hs_firstname field hs-form-field">
+                                <label for="firstname">
+                                    <span>First Name</span>
+                                    <span class="hs-form-required">*</span>
+                                </label>
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="input">
+                                    <input class="hs-input" id="firstname" name="firstname" placeholder="" required="" type="text" value="">
                                 </div>
                             </div>
-                            <div class="form-col">
-                                <div class="input-style">
-                                    <input class="input-style-input" type="text" placeholder="" />
-                                    <div class="input-style-label-right">E-mail address *</div>
+                            <div class="hs_email field hs-form-field">
+                                <label for="email">
+                                    <span>Email</span>
+                                    <span class="hs-form-required">*</span>
+                                </label>
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="input">
+                                    <input class="hs-input" id="email" name="email" placeholder="" required="" type="email" value="">
                                 </div>
                             </div>
-                        </div>
-                        <div class="form-row">
-                            <div class="form-col">
-                                <div class="input-style">
-                                    <input class="input-style-input" type="text" placeholder="" />
-                                    <div class="input-style-label">Last name</div>
+                        </fieldset>
+                        <fieldset class="form-columns-2">
+                            <div class="hs_lastname field hs-form-field">
+                                <label for="lastname">
+                                    <span>Last Name</span>
+                                </label>
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="input">
+                                    <input class="hs-input" id="lastname"name="lastname" placeholder="" type="text">
                                 </div>
                             </div>
-                            <div class="form-col">
-                                <div class="input-style">
-                                    <input class="input-style-input required" type="text" placeholder="" />
-                                    <div class="input-style-label-right">Phone number *</div>
+                            <div class="hs_phone field hs-form-field">
+                                <label for="phone">
+                                    <span>Phone Number</span>
+                                    <span class="hs-form-required">*</span>
+                                </label>
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="input">
+                                    <input class="hs-input" id="phone" name="phone" placeholder="" required="" type="phone" value="">
                                 </div>
                             </div>
-                        </div>
-                        <div class="form-row">
-                            <div class="form-col">
-                                <div class="input-style">
-                                    <input class="input-style-input" type="text" placeholder="" />
-                                    <div class="input-style-label">Company name</div>
+                        </fieldset>
+                        <fieldset class="form-columns-2">
+                            <div class="hs_company field hs-form-field">
+                                <label class="right" for="company">
+                                    <span>Company Name</span>
+                                </label>
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="input">
+                                    <input class="hs-input" id="company" name="company" placeholder="" type="text">
                                 </div>
                             </div>
-                            <div class="form-col">
-                                <div class="input-style">
-                                    <select class="input-style-input">
-                                        <option selected disabled value=""><span class="vertical-line"></span>please select from below ...</option>
-                                        <option value="1">1</option>
-                                        <option value="2">2</option>
-                                        <option value="3">3</option>
-                                        <option value="4">4</option>
-                                        <option value="5">5</option>
-                                    </select>
-                                    <div class="input-style-label-right">Number of Employees</div>
+                            <div class="hs_numemployees field hs-form-field">
+                                    <label for="phone">
+                                        <span>Number of Employees</span>
+                                    </label>
+                                    <div class="hs-field-desc" style="display:none;"></div>
+                                    <div class="input">
+                                        <select class="hs-input" id="numemployees" name="numemployees" placeholder="" required="" type="numemployees" value="">
+                                            <option disabled selected value="">please select from below ...</option>
+                                            <option value="Option 1">
+                                                Option 1
+                                            </option>
+                                            <option value="Option 2">
+                                                Option 2
+                                            </option>
+                                            <option value="Option 3">
+                                                Option 3
+                                            </option>
+                                        </select>   
+                                    </div>
+                                </div>
+                        </fieldset>
+                        <fieldset class="form-columns-1">
+                            <div class="hs_radio_select_property field hs-form-field">
+                                <div class="lms-text">Do you have an LMS?</div>
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="input">
+                                    <ul class="inputs-list multi-container">
+                                        <li class="hs-form-radio">
+                                            <p>Yes</p>
+                                            <input class="hs-input"id="radio1" name="radio_select_property" type="radio" value= "Yes" onclick="showInputBox(1)">
+                                            <label class="hs-form-radio-display" for="radio1"></label>
+                                        </li>
+                                        <li class="hs-form-radio">
+                                            <p>No</p>
+                                            <input class="hs-input" id="radio2" name="radio_select_property" type="radio" value= "No" onclick="showInputBox(0)">
+                                            <label class="hs-form-radio-display" for="radio2"></label>
+                                        </li>
+                                        <li class="hs-form-radio">
+                                            <p>Not Sure</p>
+                                            <input class="hs-input" id="radio3" name="radio_select_property" type="radio" value="Not Sure" onclick="showInputBox(0)">
+                                            <label class="hs-form-radio-display" for="radio3"></label>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
-                        </div>
-                        <div class="form-2" data-aos="fade-up" data-aos-once="true" data-aos-duration="1000">
-                            <div class="lms-text">Do you have an LMS?</div><br/>
-                            <div class="radio">
-                                <div class="radio1">
-                                    <p>Yes</p>
-                                    <input type="radio" id="radio1" name="radio-group" onclick="showInputBox(1)" return false; value="Yes">
-                                    <label for="radio1"></label>
-                                </div>
-                                <div class="radio2">
-                                    <p>No</p>
-                                    <input type="radio" id="radio2" name="radio-group" onclick="showInputBox(0)" return false; value="No">
-                                    <label for="radio2"></label>
-                                </div>
-                                <div class="radio3">
-                                    <p>Not sure</p>
-                                    <input type="radio" id="radio3" name="radio-group" onclick="showInputBox(0)" return false; value="Not-Sure">
-                                    <label for="radio3"></label>
+                        </fieldset>
+                        <fieldset class="form-columns-1" id="inputBox" data-reactid=".0.1:$3">
+                            <div class="hs_multi_line_text_property field hs-form-field">
+                                <div class="hs-field-desc" style= "display:none;"></div>
+                                <div class="input">
+                                    <textarea class="hs-input" id="multi_line_text_property" name="multi_line_text_property" placeholder="Mind sharing which one? ..." onfocus="this.placeholder = ''"></textarea>
                                 </div>
                             </div>
-                            <input class="input-style-input" id="inputBox" type="text"  placeholder="Mind sharing which one?   ..." onfocus="this.placeholder = ''" />
-                        </div>
+                        </fieldset>
                         <div class="form-row-btn" data-aos="fade-up" data-aos-once="true" data-aos-duration="1000" data-aos-delay="100">
                             <div class="form-label">Atlantic Training needs the
                                 contact information you provide to us to contact
@@ -298,12 +335,11 @@
                                 protecting your privacy, please review our
                                 Privacy Policy.
                             </div>
-                            <div class="submit">
-                                <button class="btn-style">
-                                    <span class="btn-style-wrapper">
-                                        <span class="btn-style-text">submit</span>
-                                    </span>
-                                </button>
+                            <div class="hs_submit btn-style">
+                                <div class="hs-field-desc" style="display:none;"></div>
+                                <div class="actions btn-style-wrapper">
+                                    <input class="hs-button primary large btn-style-text" type="submit" value="Submit">
+                                </div>
                             </div>
                         </div>
                     </form>
@@ -325,9 +361,9 @@
                         <div class="free-trial-btn">
                             <div class="contacts-text contacts-btn">or</div>
                             <button class="btn-style">
-                                    <span class="btn-style-wrapper">
-                                        <span class="btn-style-text">start a free trial today</span>
-                                    </span>
+                                <span class="btn-style-wrapper">
+                                    <span class="btn-style-text">start a free trial today</span>
+                                </span>
                             </button>
                         </div>
                     </div>
@@ -367,17 +403,17 @@
 </body>
 
 <script>
-function showInputBox(num){
+    function showInputBox(num){
 
-if(num==1){
-document.getElementById('inputBox').style.display='block';
-}
-else{
+        if(num==1){
+            document.getElementById('inputBox').style.display='block';
+        }
+        else{
 
-document.getElementById('inputBox').style.display='none';
-}
-return;
-}
+            document.getElementById('inputBox').style.display='none';
+        }
+        return;
+    }
 </script>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script  type="text/javascript" src="js/aos.js"></script>
