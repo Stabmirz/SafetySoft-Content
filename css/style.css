@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+html * {
+  max-height: 999999px;
+}
+
 body{
   background: url(../images/background.png);
   background-color:#dae6ed;
@@ -22,11 +26,19 @@ body{
   padding: 0;
 }
 
+.main-container{
+  width: 90%;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+  display: block;
+  overflow: hidden;
+}
+
 .container {
   margin: 0 auto;
+  padding: 0 10px;
   max-width: 1580px;
-  padding:2% 0px;
-  /* overflow: hidden; */
+  width: 100%;
 }
 
 .col-1 {
@@ -87,7 +99,7 @@ body{
 h4 {
   position: relative;
   color: #193347;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 1.25;
   margin-bottom: 20px;
@@ -119,24 +131,25 @@ h4 {
 /* Home */
 
 .home {
-  padding: 120px 0 150px;
-  /* overflow: hidden; */
+  padding: 60px 0 260px;
 }
 
 .home-row {
   display: flex;
+  justify-content: space-between;
 }
 
 .home-col-1 {
   position: relative;
-  width:38%;
+  width:35%;
   margin: auto;
 }
 
 .home-col-2 {
   position: relative;
-  width:62%;
-  margin: auto;
+  width:55%;
+  margin: 0 auto 0 0;
+  padding-top: 60px;
 }
 
 .home-col:first-child {
@@ -151,7 +164,7 @@ h4 {
 .home-text-wrap h3{
   line-height: 1.3;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 38px;
 }
 
 .home-img-wrapper {
@@ -166,7 +179,7 @@ h4 {
   max-width: 530px;
   margin-top: 35px;
   color: #5b97c6;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .home-text {
@@ -180,21 +193,15 @@ h4 {
 
 .logo img {
   display: block;
-  max-width: 85%;
+  max-width: 100%;
   height: auto;
 }
 
-.home-image {
-  position: absolute;
-  left: 29%;
-  top: 50%;
-  transform: translate(-30%, -47%);
-}
 
 .home-bg {
   display: block;
-  max-width: 120%;
-  /* height: 520px; */
+  max-width: 100%;
+  margin: auto;
 }
 
 /* .home-overlay {
@@ -213,7 +220,7 @@ h4 {
 .home-play-btn {
   display: block;
   position: absolute;
-  left: 60%;
+  left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   width: 104px;
@@ -233,31 +240,31 @@ h4 {
 
 .home-icon:nth-child(1){
   max-width: 75px;
-  left: -13px;
+  left: 10px;
   top: -57px;
 }
   
 .home-icon:nth-child(2){
   max-width: 55px;
-  left: 758px;
-  top: 510px;
+  left: 840px;
+  top: 565px;
 }
   
 .home-icon:nth-child(3){
   max-width: 30px;
-  left: 770px;
-  top: 440px;
+  left: 860px;
+  top: 495px;
 }
   
 .home-icon:nth-child(4){
   max-width: 10px;
-  left: 800px;
-  top: 480px;
+  left: 905px;
+  top: 535px;
 }
   
 .home-icon:nth-child(5){
   max-width: 25px;
-  left: -60px;
+  left: -40px;
   top: 25px;
 }
 
@@ -275,9 +282,9 @@ h4 {
 }
 
 .content {
-  width:100%;
+  width: 100%;
   position: relative;
-  padding: 5% 2% 5% 5%;
+  padding: 5% 10%;
 }
 
 .cRow {
@@ -443,7 +450,7 @@ button.btn-style:focus{
 *************************/
 
 .keypoint{
-  margin: 150px 0px 100px 0px;
+  padding: 150px 60px;
 }
 
 .keypoint-row{
@@ -494,7 +501,7 @@ button.btn-style:focus{
   
 .top{
   min-height: 60px;
-  padding:0px 15px;
+  padding:0px 40px;
 }
   
 .middle{
@@ -502,7 +509,7 @@ button.btn-style:focus{
 }
   
 .bottom{
-  min-height: 470px;
+  min-height: 420px;
   font-size: 18px;
   font-weight: 300;
 }
@@ -518,19 +525,19 @@ button.btn-style:focus{
 
 .keypoint-icon:nth-child(1){
   max-width: 38px;
-  left: 338px;
+  left: 407px;
   top: -105px;
 }
   
 .keypoint-icon:nth-child(2){
   max-width: 12px;
-  left: 1100px;
+  left: 1142px;
   top: -124px;
 }
   
 .keypoint-icon:nth-child(3){
   max-width: 33px;
-  left: 1120px;
+  left: 1165px;
   top: -117px;
 }
 
@@ -594,7 +601,7 @@ button.btn-style:focus{
 .app-form {
   position: relative;
   text-align: center;
-  padding: 250px 0px 0px 0px;
+  padding: 150px 0px 0px 0px;
 }
 
 #text{
@@ -840,7 +847,7 @@ label{
 *********************/
 
 .contact{
-  padding:150px 0px 0px 100px ;
+  padding:150px 150px 0 ;
   position: relative;
 }
 
@@ -904,7 +911,7 @@ label{
 
 .contacts-helmet {
   display: block;
-  margin-top: 50px;
+  transform: translate(90px, 50px);
   max-width: 100%;
 }
 
@@ -920,8 +927,8 @@ label{
 
 .contact-icon:nth-child(1) {
   max-width: 72px;
-  left: 400px;
-  top: -455px;
+  left: 520px;
+  top: -480px;
 }
 
 .contact-icon:nth-child(2) {
@@ -944,8 +951,8 @@ label{
 
 .contact-icon:nth-child(5) {
   max-width: 32px;
-  left: 375px;
-  top: -365px;
+  left: 485px;
+  top: -390px;
 }
 
 /**************
@@ -972,6 +979,7 @@ label{
   display: block;
   max-width: 160px;
   height: auto;
+  margin-bottom: 15px;
 }
 
 .footer-nav {
@@ -994,7 +1002,6 @@ label{
   color: #193347;
   font-size: 18px;
 }
-
 
 .row {
   display: flex;
@@ -1051,20 +1058,41 @@ label{
         Media Query
 ***************************/
 
-@media only screen and (min-width:600px){
-  .main-container {
+@media only screen and (max-width:1200px){
+
+  /* .main-container {
     width: 90%;
-    margin:auto;
-  }
-    
-}
-
-
-@media only screen and (max-width:766px){
+    margin: auto;
+  } */
 
   .small-icon-wrap{
     display: none;
   }
+
+  .content {
+    padding: 0;
+  }
+
+  .footer-logo-wrap{
+    display: block;
+    margin-bottom:15px;
+  }
+
+  .footer-nav{
+    flex-wrap: wrap;
+  }
+
+  .footer-nav a{
+    margin-bottom: 15px;
+  }
+
+}
+
+@media only screen and (max-width:600px){
+
+  /* .home-text-wrap h3 {
+    font-size: 34px;
+  } */
 
   .custom-title {
     font-size: 130px;
@@ -1081,12 +1109,12 @@ label{
   }
 
   .home-text-wrap h3{
-    font-size: 50px;
+    font-size: 28px;
   }
 
   .home-text-para {
     max-width: 100%;
-    font-size: 38px;
+    font-size: 26px;
   }
 
   .home-col-2 {
@@ -1095,7 +1123,7 @@ label{
   }
 
   .home-bg{
-    width:100%;
+    max-width:100%;
   }
 
   .home-btn-wrap{
@@ -1106,10 +1134,6 @@ label{
     flex-direction: column;
   }
 
-  .home-img-wrapper {
-    top: 320px;
-    width:700px;
-  }
 
   .home-icon:nth-child(1) {
     top: 270px;
@@ -1142,10 +1166,10 @@ label{
   /*   content  */
 
 
-  .content{
+  /* .content{
     padding: 0px 20px 150px 0px;
     margin-top:600px;
-  }
+  } */
 
   .cRow {
     flex-direction: column;
@@ -1153,26 +1177,26 @@ label{
   }
 
   .content-image-wrap.col-5{
-    min-width: 100%;
-    justify-content: center;
+    max-width: 80%;
+    margin: auto;
   }
 
   .content-content-wrap.col-7{
-    min-width: 90%;
+    max-width: 90%;
     margin: 75px auto auto auto;
     padding: 0px 0px;
   }
 
   .content-content-wrap.col-7 p{
-    font-size: 34px;
+    font-size: 24px;
   }
 
   h4{
-    font-size: 40px;
+    font-size: 24px;
   }
 
   .link-style{
-    font-size: 40px;
+    font-size: 26px;
   }
 
   .btn-style{
@@ -1181,7 +1205,7 @@ label{
   }
 
   .btn-style-text{
-    font-size: 38px;
+    font-size: 28px;
     font-weight: 800;
   }
 
@@ -1189,7 +1213,7 @@ label{
   /*   Keypoint */
 
   .card-body p{
-    font-size: 34px;
+    font-size: 24px;
     text-align: left;
   }
 
@@ -1368,7 +1392,7 @@ label{
   }
 
   .contacts-helmet {
-    margin: 0px;
+    transform: translate(0px, 0px);
   }
 
   .contact-icon:nth-child(1) {
@@ -1388,7 +1412,6 @@ label{
   .free-trial-btn .btn-style{
     height: 100px;
     font-weight: 700;
-    width: 500px;
   }
 
   .contact {
@@ -1417,7 +1440,7 @@ label{
   }
 
   .footer-copyright {
-    font-size: 24px;
+    font-size: 13px;
   }
 
   .footer-nav a{
@@ -1426,7 +1449,9 @@ label{
 
 }
 
-@media only screen and (min-width:767px) and (max-width:1025px){
+@media only screen and (min-width:769px) and (max-width:1200px){
+ 
+ 
   .custom-title {
     font-size: 130px;
     text-align: center;
@@ -1436,32 +1461,32 @@ label{
     margin: 30px 0px 0px 0px;
   }
 
-  .home-col-1 {
+  .home-text-para{
+    font-size: 18px;
+  }
+
+  .home-text-wrap h3{
+    font-size: 22px;
+  }
+
+  /* .home-col-1 {
     width:100%;
   }
 
-  .home-text-para {
-    max-width: 100%;
-    font-size: 26px;
-  }
 
   .home-col-2 {
-    width:100%;
+    width:90%;
     margin: auto;
-  }
+  } */
 
   .home-btn-wrap{
     text-align: center;
   }
 
   .home-row {
-    flex-direction: column;
+    /* flex-direction: column; */
   }
 
-  .home-img-wrapper {
-    top: 321px;
-    width:735px;
-  }
 
   .home-icon:nth-child(1) {
     top: 270px;
@@ -1634,12 +1659,4 @@ label{
 }
 
 
-
-@media only screen and (min-width:1025px){
-  .main-container {
-    width: 85%;
-    margin: auto;
-  }
-    
-}
 
