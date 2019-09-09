@@ -697,6 +697,7 @@ select{
   -moz-appearance: none;
   background: url(../images/svg/arrow.svg) no-repeat;
   background-position: 40px 38px;
+  -webkit-text-align-last: right;
   text-align-last: right;
 }
 
