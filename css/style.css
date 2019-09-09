@@ -161,7 +161,7 @@ h4 {
   margin-top: 40px;
 }
 
-.home-text-wrap h3{
+.home-text-wrap h1{
   line-height: 1.3;
   font-weight: 400;
   font-size: 38px;
@@ -179,7 +179,7 @@ h4 {
   max-width: 530px;
   margin-top: 35px;
   color: #5b97c6;
-  font-size: 24px;
+  font-size: 25px;
 }
 
 .home-text {
@@ -313,7 +313,7 @@ h4 {
 
 .content-image-wrap {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   margin-top:-4%;
 }
 
@@ -695,13 +695,6 @@ select{
   text-align-last: right;
 }
 
-ul{
-  display: flex;
-  justify-content: space-between;
-  width: 70%;
-  margin: auto;
-}
-
 .hs-form-radio .hs-input{
   box-shadow: none;
   height: auto;
@@ -766,11 +759,10 @@ li{
 [type="radio"]:not(:checked) + label:before {
   content: '';
   position: absolute;
-  left: -75px;
+  left: -5px;
   top: -30px;
   width: 60px;
   height: 60px;
-  margin-left: 70px;
   box-shadow: 0 15px 25px rgba(25, 51, 71, 0.1), inset 2px 2px 4px rgba(0, 0, 0, 0.2);
   background-color: #f6fafd;
   border: 15px solid rgb(255, 255, 255);
@@ -784,11 +776,10 @@ label{
 #radio1:checked + label:before{
   content: '';
   position: absolute;
-  left: -75px;
+  left: -5px;
   top: -30px;
   width: 80px;
   height: 110px;
-  margin-left: 70px;
   box-shadow: 0 15px 25px rgba(25, 51, 71, 0.1), inset 2px 2px 4px rgba(0, 0, 0, 0.2);
   border: 40px solid rgb(255, 255, 255);
   border-top-right-radius: 100%;
@@ -868,6 +859,7 @@ label{
 
 .free-trial-btn{
   margin-top: 20px;
+  display: flex;
 }
 
 .contacts-title {
@@ -1089,14 +1081,13 @@ label{
 }
 
 @media only screen and (max-width:600px){
+  
+  .home{
+    padding: 20px 0 60px;
+  }
 
-  /* .home-text-wrap h3 {
-    font-size: 34px;
-  } */
-
-  .custom-title {
-    font-size: 130px;
-    text-align: center;
+  .heading-up{
+    margin-bottom: -30px;
   }
 
   .heading-down{
@@ -1108,26 +1099,28 @@ label{
     margin: auto;
   }
 
-  .home-text-wrap h3{
-    font-size: 28px;
+  .home-text-wrap h1{
+    font-size: 18px;
+  }
+
+  .home-text-wrap{
+    padding-left: 0px;
   }
 
   .home-text-para {
     max-width: 100%;
-    font-size: 26px;
+    font-size: 14px;
+    line-height: 1.3;
+    margin-top: 14px;
   }
 
   .home-col-2 {
-    width:80%;
+    width:100%;
     margin: auto;
   }
 
   .home-bg{
     max-width:100%;
-  }
-
-  .home-btn-wrap{
-    text-align: center;
   }
 
   .home-row {
@@ -1166,19 +1159,25 @@ label{
   /*   content  */
 
 
-  /* .content{
-    padding: 0px 20px 150px 0px;
-    margin-top:600px;
-  } */
+  .custom-title {
+    font-size: 55px;
+    line-height: .8;
+    text-align: center;
+  }
+
+  .content-image-wrap.col-5 {
+    max-width: 100%;
+    width: 100%;
+    margin: auto;
+  }
 
   .cRow {
     flex-direction: column;
     margin-left:0%;
   }
 
-  .content-image-wrap.col-5{
-    max-width: 80%;
-    margin: auto;
+  .col-7{
+    width: 100%;
   }
 
   .content-content-wrap.col-7{
@@ -1188,45 +1187,68 @@ label{
   }
 
   .content-content-wrap.col-7 p{
-    font-size: 24px;
+    font-size: 14px;
+  }
+
+  .anim-icon-wrap{
+    width: 268px;
+    height: 293px;
+  }
+
+  .content-row{
+    flex-direction: column;
+  }
+
+  .content-col{
+    width:100%;
   }
 
   h4{
-    font-size: 24px;
+    font-size: 16px;
+    margin-bottom: 8px;
   }
 
   .link-style{
-    font-size: 26px;
+    font-size: 18px;
+  }
+
+  .home-text{
+    margin-left: 0px;
   }
 
   .btn-style{
-    width:380px;
-    height:100px;
+    height:60px;
   }
 
   .btn-style-text{
-    font-size: 28px;
-    font-weight: 800;
+    font-size: 20px;
   }
 
+  .home-play-btn{
+    top: 45%;
+    width: 60px;
+  }
 
   /*   Keypoint */
 
+  .keypoint{
+    padding: 50px 10px;
+  }
+
   .card-body p{
-    font-size: 24px;
+    font-size: 14px;
     text-align: left;
   }
 
   .keypoint-row {
     flex-direction: column;
     margin: auto;
-    width: 85%;
   }
 
   .keypoint-title{
-    /* top:-185px; */
     width:100%;
-    /* left:0; */
+    font-size: 55px;
+    color: #daebf4;
   }
 
   .keypoint-icon:nth-child(1) {
@@ -1246,26 +1268,30 @@ label{
     left: 850px;
     top: -130px;
   }
-
   
   .card.keypoint-card{
     width: 100%;
     margin-bottom: 40px;
+    padding: 0;
   }
     
   .card-text.bottom{
-   height: fit-content;
+   min-height: fit-content;
+  }
+
+  .top{
+    padding: 0;
   }
 
   .card img {
-    width: 375px;
-    height: 250px;
+    width: 180px;
+    margin: 0px auto 0px auto;
   }
 
   /*  tool */
 
   .tools {
-    padding: 100px 0 0;
+    padding: 0 0 100px;
   }
 
   .tools-wrap{
@@ -1275,23 +1301,22 @@ label{
 
   .tools-item{
     width: 60%;
-    margin: 0px 0px 140px 0px;
+    margin: 0px 0px 0px 0px;
   }
 
   .tools-num{
-    margin-right: 0px;
-    bottom: 36px;
-    font-size: 350px;
+    margin-right: 140px;
+    bottom: -90px;
+    font-size: 180px;
   }
 
   .tools-text{
-    font-size: 26px;
+    font-size: 14px;
   }
 
   .tools-icon{
-    right: -50px;
-    bottom: 18px;
-    min-width: 300px;
+    right: 0px;
+    max-width: 180px; 
   }
 
   /*  form */
@@ -1300,13 +1325,16 @@ label{
     padding: 50px 0px 0px 0px;
   }
 
+  #text{
+    font-size:48px;
+  }
 
   .placeholder-form {
-    width: 90%;
+    width: 100%;
   }
 
   .lms-text{
-    font-size: 28px;
+    font-size: 22px;
   }
 
   .hs_firstname, .hs_lastname, .hs_company,.hs_email, .hs_phone, .hs_numemployees{
@@ -1320,11 +1348,16 @@ label{
   }
 
   .hs-form label {
-    font-size: 26px;
+    font-size: 16px;
+    top: -30px;
+  }
+
+  .hs-form label.left, .hs-form label.right{
+    left: 15px;
   }
 
   .hs-form .hs-form-field {
-    margin-bottom: 60px;
+    margin-bottom: 50px;
   }
 
   .form-columns-1, .form-columns-2{
@@ -1332,43 +1365,75 @@ label{
   }
 
   select#numemployees.hs-input{
-    font-size: 26px;
+    font-size: 14px;
   }
 
-  .input-style-label, .input-style-label-right{
-    font-size: 35px;
-    line-height: .5;
+  select{
+    background-position: 20px 18px;
+    background-size: 18px;
   }
 
-  .form-row, .form-row-btn{
+  [type="radio"]:not(:checked) + label:before {
+    left: 0px;
+    top: -9px;
+    width: 40px;
+    height: 40px;
+    border: 10px solid rgb(255, 255, 255);
+  }
+
+  #radio1:checked + label:before{
+    display: none;
+  }
+  
+  [type="radio"]:checked + label:after,
+  [type="radio"]:not(:checked) + label:after {
+    width: 20px;
+    height: 20px;
+    left: 11px;
+    top: 7px;
+  }
+
+  textarea#multi_line_text_property {
+    padding: 10px 10px;
+  }
+
+  .form-row-btn{
     display: flex;
     flex-direction: column;
     margin-top: 0px;
   }
 
-  .form-col, .form-2 , .form-row-btn{
+  .form-row-btn{
     width:90%;
     margin: auto;
   }
 
-  input.input-style-input{
-    margin-bottom: 60px;
-  }
-
-  .input-style-label-right {
-    left:45px;
-    right: 0;
-  } 
-
-  .form-2{
-    font-size: 28px;
-  }
-
   .form-label{
     text-align: center;
-    font-size: 24px;
-    margin-bottom: 30px;
-    margin-right: 0px;
+    font-size: 12px;
+    margin: 20px 0px 20px 0px;
+  }
+
+  ul{
+    width: 100%;
+    margin: 0 0 4% 0;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  li{
+    width: 65%;
+    display: flex;
+  }
+
+  .hs-form-radio p {
+    font-size: 18px;
+    width: 100px;
+  }
+
+  .input .hs-input{
+    height: 50px;
+    padding: 10px 10px;
   }
 
   .hs_submit{
@@ -1379,16 +1444,16 @@ label{
   /* contact */
 
   .contacts-subtitle {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
   }
 
   .contacts-title span {
-    font-size: 44px;
+    font-size: 30px;
   }
 
   .contacts-title {
-    font-size: 33px;
+    font-size: 26px;
   }
 
   .contacts-helmet {
@@ -1410,12 +1475,12 @@ label{
   }
 
   .free-trial-btn .btn-style{
-    height: 100px;
+    height: 60px;
     font-weight: 700;
   }
 
   .contact {
-    padding: 150px 0px 0px 30px;
+    padding: 50px 0px 0px 0px;
   }
 
   .contact-row {
@@ -1424,6 +1489,7 @@ label{
 
   .contact-col-2{
     margin-bottom: 40px;
+    max-width: 100%;
   }
   .contact-col-1 {
     max-width: 90%;
@@ -1431,7 +1497,7 @@ label{
   }
 
   .footer {
-    padding: 200px 40px 80px;
+    padding: 85px 20px 20px;
   }
 
   .footer-logo {
@@ -1441,10 +1507,6 @@ label{
 
   .footer-copyright {
     font-size: 13px;
-  }
-
-  .footer-nav a{
-    font-size: 22px;
   }
 
 }
@@ -1465,7 +1527,7 @@ label{
     font-size: 18px;
   }
 
-  .home-text-wrap h3{
+  .home-text-wrap h1{
     font-size: 22px;
   }
 
