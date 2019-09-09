@@ -410,6 +410,11 @@ h4 {
   background-image: linear-gradient(25deg, rgba(195, 216, 46, 0.5) 0%, rgba(230, 231, 93, 0.5) 100%);
 } 
 
+.btn-style a{
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .btn-style-wrapper {
   display: flex;
   justify-content: center;
