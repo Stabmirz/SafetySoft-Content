@@ -696,8 +696,7 @@ select{
   -webkit-appearance: none;
   -moz-appearance: none;
   background: url(../images/svg/arrow.svg) no-repeat;
-  background-position: 40px 45px;
-  -webkit-text-align-last: end;
+  background-position: 10% 50%;
   text-align-last: end;
 }
 
@@ -1346,8 +1345,9 @@ label{
   }
 
   select{
-    background-position: 20px 18px;
+    background-position: 90% 45%;
     background-size: 18px;
+    text-align-last: left;
   }
 
   [type="radio"]:not(:checked) + label:before {
@@ -1737,8 +1737,9 @@ label{
   }
 
   select{
-    background-position: 30px 25px;
+    background-position: 90% 45%;
     background-size: 18px;
+    text-align-last: left;
   }
 
   textarea#multi_line_text_property {
@@ -2085,8 +2086,9 @@ label{
   }
 
   select{
-    background-position: 20px 25px;
+    background-position: 90% 45%;
     background-size: 18px;
+    text-align-last: left;
   }
 
   .input .hs-input{
