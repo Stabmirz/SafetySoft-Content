@@ -1088,7 +1088,7 @@ label{
 
   [type="radio"]:checked + label:after,
   [type="radio"]:not(:checked) + label:after {
-    left: 20px !important;
+    left: 23px !important;
   }
 
   ul li{
@@ -1362,6 +1362,12 @@ label{
     height: 20px;
     left: 11px;
     top: 7px;
+  }
+
+  #radio1:checked + label:before{
+    display: none;
+    width: 80px;
+    height: 110px;
   }
 
   textarea#multi_line_text_property {
