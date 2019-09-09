@@ -696,9 +696,9 @@ select{
   -webkit-appearance: none;
   -moz-appearance: none;
   background: url(../images/svg/arrow.svg) no-repeat;
-  background-position: 40px 38px;
-  -webkit-text-align-last: right;
-  text-align-last: right;
+  background-position: 40px 45px;
+  -webkit-text-align-last: end;
+  text-align-last: end;
 }
 
 .hs-form-radio .hs-input{
@@ -2085,7 +2085,8 @@ label{
   }
 
   select{
-    background-position: 20px 30px;
+    background-position: 20px 25px;
+    background-size: 18px;
   }
 
   .input .hs-input{
